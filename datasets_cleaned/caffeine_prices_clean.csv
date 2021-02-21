@@ -1,0 +1,1909 @@
+Area,Item,Year,Price,continent
+Angola,"Coffee, green",2010,511.4,Africa
+Angola,"Coffee, green",2011,702.6,Africa
+Argentina,Tea,1991,49.8,South America
+Argentina,Tea,1992,50.5,South America
+Argentina,Tea,1993,63.1,South America
+Argentina,Tea,1994,56.1,South America
+Argentina,Tea,1995,42.0,South America
+Argentina,Tea,1996,53.0,South America
+Argentina,Tea,1997,51.0,South America
+Argentina,Tea,1998,70.0,South America
+Argentina,Tea,1999,47.0,South America
+Argentina,Tea,2000,46.0,South America
+Argentina,Tea,2001,40.0,South America
+Argentina,Tea,2006,69.8,South America
+Argentina,Tea,2007,68.6,South America
+Argentina,Tea,2008,66.9,South America
+Argentina,Tea,2009,56.4,South America
+Argentina,Tea,2010,92.3,South America
+Argentina,Tea,2011,107.5,South America
+Argentina,Tea,2012,127.6,South America
+Argentina,Tea,2013,137.4,South America
+Argentina,Tea,2014,103.7,South America
+Argentina,Tea,2015,99.5,South America
+Argentina,Tea,2016,78.3,South America
+Argentina,Tea,2017,90.6,South America
+Argentina,Tea,2018,58.7,South America
+Azerbaijan,Tea,1994,288.6,Asia
+Azerbaijan,Tea,1995,285.0,Asia
+Azerbaijan,Tea,1996,228.5,Asia
+Azerbaijan,Tea,1997,234.6,Asia
+Azerbaijan,Tea,1998,187.4,Asia
+Azerbaijan,Tea,1999,103.2,Asia
+Azerbaijan,Tea,2000,116.2,Asia
+Azerbaijan,Tea,2001,156.8,Asia
+Azerbaijan,Tea,2002,195.4,Asia
+Azerbaijan,Tea,2003,221.0,Asia
+Azerbaijan,Tea,2004,235.1,Asia
+Azerbaijan,Tea,2005,284.5,Asia
+Azerbaijan,Tea,2006,310.1,Asia
+Azerbaijan,Tea,2007,382.2,Asia
+Azerbaijan,Tea,2008,539.2,Asia
+Azerbaijan,Tea,2009,622.0,Asia
+Azerbaijan,Tea,2010,872.1,Asia
+Azerbaijan,Tea,2011,1013.0,Asia
+Azerbaijan,Tea,2012,1018.3,Asia
+Azerbaijan,Tea,2013,1092.4,Asia
+Azerbaijan,Tea,2014,1132.2,Asia
+Azerbaijan,Tea,2015,921.3,Asia
+Azerbaijan,Tea,2016,592.2,Asia
+Azerbaijan,Tea,2017,551.9,Asia
+Azerbaijan,Tea,2018,541.2,Asia
+Azerbaijan,Tea,2019,600.0,Asia
+Belize,"Cocoa, beans",2002,2204.5,North America
+Belize,"Coffee, green",2002,1488.0,North America
+Belize,"Cocoa, beans",2003,2204.5,North America
+Belize,"Coffee, green",2003,1488.0,North America
+Bolivia (Plurinational State of),"Cocoa, beans",1991,823.6,N/A
+Bolivia (Plurinational State of),"Coffee, green",1991,600.5,N/A
+Bolivia (Plurinational State of),Tea,1991,203.9,N/A
+Bolivia (Plurinational State of),"Cocoa, beans",1992,756.3,N/A
+Bolivia (Plurinational State of),"Coffee, green",1992,449.7,N/A
+Bolivia (Plurinational State of),Tea,1992,216.9,N/A
+Bolivia (Plurinational State of),"Cocoa, beans",1993,770.9,N/A
+Bolivia (Plurinational State of),"Coffee, green",1993,494.0,N/A
+Bolivia (Plurinational State of),Tea,1993,205.9,N/A
+Bolivia (Plurinational State of),"Cocoa, beans",1994,968.1,N/A
+Bolivia (Plurinational State of),"Coffee, green",1994,953.8,N/A
+Bolivia (Plurinational State of),Tea,1994,205.0,N/A
+Bolivia (Plurinational State of),"Cocoa, beans",1995,1023.3,N/A
+Bolivia (Plurinational State of),"Coffee, green",1995,975.1,N/A
+Bolivia (Plurinational State of),Tea,1995,214.2,N/A
+Bolivia (Plurinational State of),"Cocoa, beans",1996,1036.3,N/A
+Bolivia (Plurinational State of),"Coffee, green",1996,990.6,N/A
+Bolivia (Plurinational State of),Tea,1996,211.4,N/A
+Bolivia (Plurinational State of),"Cocoa, beans",1997,1053.4,N/A
+Bolivia (Plurinational State of),"Coffee, green",1997,1001.7,N/A
+Bolivia (Plurinational State of),Tea,1997,212.8,N/A
+Bolivia (Plurinational State of),"Cocoa, beans",1998,1027.6,N/A
+Bolivia (Plurinational State of),"Coffee, green",1998,987.3,N/A
+Bolivia (Plurinational State of),Tea,1998,207.4,N/A
+Bolivia (Plurinational State of),"Cocoa, beans",1999,1024.7,N/A
+Bolivia (Plurinational State of),"Coffee, green",1999,970.0,N/A
+Bolivia (Plurinational State of),Tea,1999,202.2,N/A
+Bolivia (Plurinational State of),"Cocoa, beans",2000,994.3,N/A
+Bolivia (Plurinational State of),"Coffee, green",2000,916.6,N/A
+Bolivia (Plurinational State of),Tea,2000,193.6,N/A
+Bolivia (Plurinational State of),"Cocoa, beans",2001,945.6,N/A
+Bolivia (Plurinational State of),"Coffee, green",2001,869.8,N/A
+Bolivia (Plurinational State of),Tea,2001,183.1,N/A
+Bolivia (Plurinational State of),"Cocoa, beans",2002,873.4,N/A
+Bolivia (Plurinational State of),"Coffee, green",2002,805.2,N/A
+Bolivia (Plurinational State of),Tea,2002,170.5,N/A
+Bolivia (Plurinational State of),"Cocoa, beans",2003,827.5,N/A
+Bolivia (Plurinational State of),"Coffee, green",2003,750.6,N/A
+Bolivia (Plurinational State of),Tea,2003,161.2,N/A
+Bolivia (Plurinational State of),"Cocoa, beans",2004,818.2,N/A
+Bolivia (Plurinational State of),"Coffee, green",2004,769.5,N/A
+Bolivia (Plurinational State of),Tea,2004,158.0,N/A
+Bolivia (Plurinational State of),"Cocoa, beans",2005,820.5,N/A
+Bolivia (Plurinational State of),"Coffee, green",2005,784.3,N/A
+Bolivia (Plurinational State of),Tea,2005,157.6,N/A
+Bolivia (Plurinational State of),"Cocoa, beans",2006,862.0,N/A
+Bolivia (Plurinational State of),"Coffee, green",2006,958.5,N/A
+Bolivia (Plurinational State of),Tea,2006,167.4,N/A
+Bolivia (Plurinational State of),"Cocoa, beans",2007,929.2,N/A
+Bolivia (Plurinational State of),"Coffee, green",2007,943.2,N/A
+Bolivia (Plurinational State of),Tea,2007,180.3,N/A
+Bolivia (Plurinational State of),"Cocoa, beans",2008,1421.9,N/A
+Bolivia (Plurinational State of),"Coffee, green",2008,1354.6,N/A
+Bolivia (Plurinational State of),Tea,2008,219.7,N/A
+Bolivia (Plurinational State of),"Cocoa, beans",2009,1597.4,N/A
+Bolivia (Plurinational State of),"Coffee, green",2009,1173.0,N/A
+Bolivia (Plurinational State of),Tea,2009,238.1,N/A
+Bolivia (Plurinational State of),"Cocoa, beans",2010,3010.6,N/A
+Bolivia (Plurinational State of),"Coffee, green",2010,1299.8,N/A
+Bolivia (Plurinational State of),Tea,2010,262.0,N/A
+Bolivia (Plurinational State of),"Cocoa, beans",2011,3094.4,N/A
+Bolivia (Plurinational State of),"Coffee, green",2011,1350.6,N/A
+Bolivia (Plurinational State of),Tea,2011,251.8,N/A
+Bolivia (Plurinational State of),"Cocoa, beans",2012,3164.7,N/A
+Bolivia (Plurinational State of),"Coffee, green",2012,1373.8,N/A
+Bolivia (Plurinational State of),Tea,2012,261.4,N/A
+Bolivia (Plurinational State of),"Cocoa, beans",2013,3277.6,N/A
+Bolivia (Plurinational State of),"Coffee, green",2013,1400.7,N/A
+Bolivia (Plurinational State of),Tea,2013,267.2,N/A
+Bolivia (Plurinational State of),"Cocoa, beans",2014,1294.1,N/A
+Bolivia (Plurinational State of),"Coffee, green",2014,1231.5,N/A
+Bolivia (Plurinational State of),"Cocoa, beans",2015,2148.5,N/A
+Bolivia (Plurinational State of),"Coffee, green",2015,1243.6,N/A
+Bolivia (Plurinational State of),"Cocoa, beans",2016,2075.3,N/A
+Bolivia (Plurinational State of),"Coffee, green",2016,1325.5,N/A
+Bolivia (Plurinational State of),"Cocoa, beans",2017,2014.2,N/A
+Bolivia (Plurinational State of),"Coffee, green",2017,1255.7,N/A
+Bolivia (Plurinational State of),"Cocoa, beans",2018,1956.4,N/A
+Bolivia (Plurinational State of),"Coffee, green",2018,1333.7,N/A
+Brazil,"Cocoa, beans",1991,619.7,South America
+Brazil,"Coffee, green",1991,282.1,South America
+Brazil,Tea,1991,75.2,South America
+Brazil,"Cocoa, beans",1992,610.1,South America
+Brazil,"Coffee, green",1992,294.8,South America
+Brazil,Tea,1992,31.0,South America
+Brazil,"Cocoa, beans",1993,717.0,South America
+Brazil,"Coffee, green",1993,416.7,South America
+Brazil,Tea,1993,79.5,South America
+Brazil,"Cocoa, beans",1994,953.8,South America
+Brazil,"Coffee, green",1994,1260.7,South America
+Brazil,Tea,1994,91.8,South America
+Brazil,"Cocoa, beans",1995,1094.0,South America
+Brazil,"Coffee, green",1995,1121.3,South America
+Brazil,Tea,1995,775.9,South America
+Brazil,"Cocoa, beans",1996,1065.6,South America
+Brazil,"Coffee, green",1996,932.2,South America
+Brazil,Tea,1996,777.0,South America
+Brazil,"Cocoa, beans",1997,1334.0,South America
+Brazil,"Coffee, green",1997,1250.5,South America
+Brazil,Tea,1997,725.4,South America
+Brazil,"Cocoa, beans",1998,1377.0,South America
+Brazil,"Coffee, green",1998,1084.0,South America
+Brazil,Tea,1998,124.9,South America
+Brazil,"Cocoa, beans",1999,983.5,South America
+Brazil,"Coffee, green",1999,725.0,South America
+Brazil,Tea,1999,71.1,South America
+Brazil,"Cocoa, beans",2000,757.6,South America
+Brazil,"Coffee, green",2000,676.7,South America
+Brazil,Tea,2000,87.5,South America
+Brazil,"Cocoa, beans",2001,980.2,South America
+Brazil,"Coffee, green",2001,382.6,South America
+Brazil,Tea,2001,75.3,South America
+Brazil,"Coffee, green",2002,309.9,South America
+Brazil,"Coffee, green",2003,430.5,South America
+Brazil,"Coffee, green",2004,509.7,South America
+Brazil,"Coffee, green",2005,760.3,South America
+Brazil,"Coffee, green",2006,806.0,South America
+Brazil,"Cocoa, beans",2007,1924.6,South America
+Brazil,"Coffee, green",2007,1181.7,South America
+Brazil,"Cocoa, beans",2008,385.2,South America
+Brazil,"Coffee, green",2008,1562.8,South America
+Brazil,"Cocoa, beans",2009,427.8,South America
+Brazil,"Coffee, green",2009,1903.5,South America
+Brazil,"Cocoa, beans",2010,480.2,South America
+Brazil,"Coffee, green",2010,2472.3,South America
+Brazil,"Cocoa, beans",2011,2980.3,South America
+Brazil,"Coffee, green",2011,4019.7,South America
+Brazil,"Cocoa, beans",2012,2429.5,South America
+Brazil,"Coffee, green",2012,3031.9,South America
+Brazil,"Cocoa, beans",2013,2207.0,South America
+Brazil,"Coffee, green",2013,2326.7,South America
+Brazil,"Cocoa, beans",2014,1626.1,South America
+Brazil,"Coffee, green",2014,2776.2,South America
+Brazil,"Cocoa, beans",2015,1430.2,South America
+Brazil,"Coffee, green",2015,2122.8,South America
+Brazil,"Coffee, green",2016,2234.1,South America
+Burundi,"Coffee, green",1991,2410.3,Africa
+Burundi,Tea,1991,143.2,Africa
+Burundi,"Coffee, green",1992,2100.3,Africa
+Burundi,Tea,1992,124.8,Africa
+Burundi,"Coffee, green",1993,1853.5,Africa
+Burundi,Tea,1993,107.1,Africa
+Burundi,"Coffee, green",1994,1781.0,Africa
+Burundi,Tea,1994,102.9,Africa
+Burundi,"Coffee, green",1995,2402.3,Africa
+Burundi,Tea,1995,132.1,Africa
+Burundi,"Coffee, green",1996,2394.7,Africa
+Burundi,Tea,1996,115.6,Africa
+Burundi,"Coffee, green",1997,2405.2,Africa
+Burundi,Tea,1997,99.3,Africa
+Burundi,"Coffee, green",1998,2288.9,Africa
+Burundi,Tea,1998,78.2,Africa
+Burundi,"Coffee, green",1999,1590.8,Africa
+Burundi,Tea,1999,115.3,Africa
+Burundi,"Coffee, green",2000,1394.2,Africa
+Burundi,Tea,2000,104.1,Africa
+Burundi,"Coffee, green",2001,1038.5,Africa
+Burundi,Tea,2001,90.3,Africa
+Burundi,"Coffee, green",2002,3361.8,Africa
+Burundi,Tea,2002,80.6,Africa
+Burundi,"Coffee, green",2003,871.5,Africa
+Burundi,Tea,2003,92.4,Africa
+Burundi,"Coffee, green",2004,1171.8,Africa
+Burundi,Tea,2004,90.8,Africa
+Burundi,"Coffee, green",2005,1708.4,Africa
+Burundi,Tea,2005,101.7,Africa
+Burundi,"Coffee, green",2006,1922.4,Africa
+Burundi,Tea,2006,106.9,Africa
+Burundi,"Coffee, green",2007,184.9,Africa
+Burundi,Tea,2007,101.7,Africa
+Burundi,"Coffee, green",2008,210.8,Africa
+Burundi,Tea,2008,92.8,Africa
+Burundi,"Coffee, green",2009,243.9,Africa
+Burundi,Tea,2009,105.7,Africa
+Burundi,"Coffee, green",2010,243.8,Africa
+Burundi,Tea,2010,113.8,Africa
+Burundi,"Coffee, green",2011,388.6,Africa
+Burundi,Tea,2011,174.5,Africa
+Burundi,"Coffee, green",2012,436.7,Africa
+Burundi,Tea,2012,173.3,Africa
+Burundi,"Coffee, green",2013,299.0,Africa
+Burundi,Tea,2013,160.8,Africa
+Burundi,"Coffee, green",2014,258.6,Africa
+Burundi,Tea,2014,161.6,Africa
+Burundi,"Coffee, green",2015,318.1,Africa
+Burundi,Tea,2015,197.2,Africa
+Burundi,"Coffee, green",2017,240.0,Africa
+Burundi,Tea,2017,173.5,Africa
+Burundi,"Coffee, green",2018,280.4,Africa
+Burundi,Tea,2018,157.0,Africa
+Burundi,"Coffee, green",2019,270.9,Africa
+Burundi,Tea,2019,135.5,Africa
+Cambodia,"Coffee, green",1995,2688.9,Asia
+Cambodia,"Coffee, green",1996,2755.2,Asia
+Cambodia,"Coffee, green",1997,3343.2,Asia
+Cambodia,"Coffee, green",1998,3920.5,Asia
+Cameroon,"Cocoa, beans",1991,709.0,Africa
+Cameroon,"Coffee, green",1991,584.9,Africa
+Cameroon,"Cocoa, beans",1992,755.6,Africa
+Cameroon,"Coffee, green",1992,472.2,Africa
+Cameroon,"Cocoa, beans",1993,706.3,Africa
+Cameroon,"Coffee, green",1993,441.4,Africa
+Cameroon,"Cocoa, beans",1994,405.3,Africa
+Cameroon,"Coffee, green",1994,720.5,Africa
+Cameroon,"Cocoa, beans",1995,961.6,Africa
+Cameroon,"Coffee, green",1995,901.5,Africa
+Cameroon,"Cocoa, beans",1996,625.5,Africa
+Cameroon,"Coffee, green",1996,879.7,Africa
+Cameroon,"Cocoa, beans",1997,599.7,Africa
+Cameroon,"Coffee, green",1997,728.2,Africa
+Cameroon,"Cocoa, beans",1998,1101.8,Africa
+Cameroon,"Coffee, green",1998,720.4,Africa
+Cameroon,"Cocoa, beans",1999,933.9,Africa
+Cameroon,"Coffee, green",1999,690.3,Africa
+Cameroon,"Cocoa, beans",2000,632.0,Africa
+Cameroon,"Coffee, green",2000,491.6,Africa
+Cameroon,"Cocoa, beans",2005,1129.6,Africa
+Cameroon,"Coffee, green",2005,763.1,Africa
+Cameroon,"Cocoa, beans",2006,1122.0,Africa
+Cameroon,"Coffee, green",2006,590.9,Africa
+Cameroon,"Cocoa, beans",2007,1335.4,Africa
+Cameroon,"Coffee, green",2007,824.2,Africa
+Cameroon,"Cocoa, beans",2008,1732.5,Africa
+Cameroon,"Coffee, green",2008,869.1,Africa
+Cameroon,"Cocoa, beans",2009,1888.4,Africa
+Cameroon,"Coffee, green",2009,893.0,Africa
+Cameroon,"Cocoa, beans",2010,2340.4,Africa
+Cameroon,"Coffee, green",2010,920.4,Africa
+"China, mainland",Tea,1991,1253.0,N/A
+"China, mainland",Tea,1992,1361.8,N/A
+"China, mainland",Tea,1993,1449.3,N/A
+"China, mainland",Tea,1994,1078.4,N/A
+"China, mainland",Tea,1995,1339.9,N/A
+"China, mainland",Tea,1996,1375.5,N/A
+"China, mainland",Tea,1997,1254.0,N/A
+"China, mainland",Tea,1998,1255.6,N/A
+"China, mainland",Tea,1999,1218.1,N/A
+"China, mainland",Tea,2000,1221.7,N/A
+"China, mainland",Tea,2001,1097.8,N/A
+"China, mainland",Tea,2002,1273.0,N/A
+"China, mainland",Tea,2008,3641.0,N/A
+"China, mainland",Tea,2009,3879.1,N/A
+"China, mainland","Coffee, green",2010,3231.8,N/A
+"China, mainland",Tea,2010,4076.6,N/A
+"China, mainland","Coffee, green",2011,3660.1,N/A
+"China, mainland",Tea,2011,4403.0,N/A
+"China, mainland","Coffee, green",2012,3881.3,N/A
+"China, mainland",Tea,2012,4380.3,N/A
+"China, mainland","Coffee, green",2013,2630.8,N/A
+"China, mainland",Tea,2013,4819.4,N/A
+"China, mainland",Tea,2017,4661.7,N/A
+"China, mainland",Tea,2018,4781.8,N/A
+Colombia,"Cocoa, beans",1991,870.1,South America
+Colombia,"Coffee, green",1991,1205.6,South America
+Colombia,"Cocoa, beans",1992,862.0,South America
+Colombia,"Coffee, green",1992,982.3,South America
+Colombia,"Cocoa, beans",1993,863.9,South America
+Colombia,"Coffee, green",1993,902.9,South America
+Colombia,"Cocoa, beans",1994,1211.6,South America
+Colombia,"Coffee, green",1994,1527.3,South America
+Colombia,"Cocoa, beans",1995,1404.7,South America
+Colombia,"Coffee, green",1995,1791.0,South America
+Colombia,"Cocoa, beans",1996,1306.4,South America
+Colombia,"Coffee, green",1996,1658.3,South America
+Colombia,"Cocoa, beans",1997,1423.0,South America
+Colombia,"Coffee, green",1997,2362.3,South America
+Colombia,"Cocoa, beans",1998,1547.5,South America
+Colombia,"Coffee, green",1998,1827.2,South America
+Colombia,"Cocoa, beans",1999,1287.5,South America
+Colombia,"Coffee, green",1999,1550.5,South America
+Colombia,"Cocoa, beans",2000,1075.5,South America
+Colombia,"Coffee, green",2000,1348.0,South America
+Colombia,"Cocoa, beans",2001,979.9,South America
+Colombia,"Coffee, green",2001,1049.7,South America
+Colombia,"Cocoa, beans",2002,1407.8,South America
+Colombia,"Coffee, green",2002,951.6,South America
+Colombia,"Cocoa, beans",2003,1583.1,South America
+Colombia,"Coffee, green",2003,881.7,South America
+Colombia,"Cocoa, beans",2004,1520.5,South America
+Colombia,"Coffee, green",2004,1101.5,South America
+Colombia,"Cocoa, beans",2005,1596.4,South America
+Colombia,"Coffee, green",2005,1612.7,South America
+Colombia,"Cocoa, beans",2006,1653.4,South America
+Colombia,"Coffee, green",2006,1617.4,South America
+Colombia,"Cocoa, beans",2007,2168.3,South America
+Colombia,"Coffee, green",2007,1808.6,South America
+Colombia,"Cocoa, beans",2008,2272.6,South America
+Colombia,"Coffee, green",2008,2056.6,South America
+Colombia,"Cocoa, beans",2009,2147.2,South America
+Colombia,"Coffee, green",2009,2489.0,South America
+Colombia,"Cocoa, beans",2010,2778.5,South America
+Colombia,"Coffee, green",2010,3237.0,South America
+Colombia,"Cocoa, beans",2011,2973.9,South America
+Colombia,"Coffee, green",2011,4284.3,South America
+Colombia,"Cocoa, beans",2012,2208.5,South America
+Colombia,"Coffee, green",2012,3006.2,South America
+Colombia,"Cocoa, beans",2013,2211.5,South America
+Colombia,"Coffee, green",2013,2059.6,South America
+Colombia,"Cocoa, beans",2014,2744.0,South America
+Colombia,"Coffee, green",2014,2815.7,South America
+Colombia,"Cocoa, beans",2015,2588.3,South America
+Colombia,"Coffee, green",2015,2091.5,South America
+Congo,"Cocoa, beans",1991,311.9,Africa
+Congo,"Coffee, green",1991,407.6,Africa
+Congo,"Cocoa, beans",1992,332.5,Africa
+Congo,"Coffee, green",1992,434.5,Africa
+Congo,"Cocoa, beans",1993,310.8,Africa
+Congo,"Coffee, green",1993,406.1,Africa
+Congo,"Cocoa, beans",1994,158.5,Africa
+Congo,"Coffee, green",1994,207.1,Africa
+Congo,"Cocoa, beans",1995,176.3,Africa
+Congo,"Coffee, green",1995,230.4,Africa
+Congo,"Cocoa, beans",1996,195.5,Africa
+Congo,"Coffee, green",1996,224.8,Africa
+Congo,"Cocoa, beans",1997,174.8,Africa
+Congo,"Coffee, green",1997,197.0,Africa
+Congo,"Cocoa, beans",1998,254.3,Africa
+Congo,"Coffee, green",1998,339.0,Africa
+Congo,"Cocoa, beans",1999,1278.7,Africa
+Congo,"Coffee, green",1999,1363.6,Africa
+Congo,"Cocoa, beans",2000,266.9,Africa
+Congo,"Coffee, green",2000,302.0,Africa
+Congo,"Cocoa, beans",2001,266.0,Africa
+Congo,"Coffee, green",2001,286.5,Africa
+Congo,"Cocoa, beans",2002,1243.8,Africa
+Congo,"Coffee, green",2002,1326.5,Africa
+Congo,"Cocoa, beans",2003,240.9,Africa
+Congo,"Coffee, green",2003,275.3,Africa
+Costa Rica,"Cocoa, beans",1991,808.6,North America
+Costa Rica,"Coffee, green",1991,1194.7,North America
+Costa Rica,"Cocoa, beans",1992,765.8,North America
+Costa Rica,"Coffee, green",1992,1076.7,North America
+Costa Rica,"Cocoa, beans",1993,1081.6,North America
+Costa Rica,"Coffee, green",1993,1834.3,North America
+Costa Rica,"Coffee, green",1994,1292.2,North America
+Costa Rica,"Coffee, green",1995,2307.5,North America
+Costa Rica,"Coffee, green",1996,1793.8,North America
+Costa Rica,"Coffee, green",1997,2168.6,North America
+Costa Rica,"Coffee, green",1998,2271.6,North America
+Costa Rica,"Coffee, green",1999,1787.5,North America
+Costa Rica,"Coffee, green",2000,1674.6,North America
+Costa Rica,"Coffee, green",2001,1028.8,North America
+Costa Rica,"Coffee, green",2002,974.6,North America
+Costa Rica,"Coffee, green",2003,1135.0,North America
+Costa Rica,"Coffee, green",2004,1314.3,North America
+Costa Rica,"Coffee, green",2005,1836.9,North America
+Costa Rica,"Coffee, green",2006,1935.6,North America
+Costa Rica,"Coffee, green",2007,2133.1,North America
+Costa Rica,"Coffee, green",2008,2321.6,North America
+Costa Rica,"Coffee, green",2009,2315.0,North America
+Costa Rica,"Coffee, green",2010,2838.1,North America
+Costa Rica,"Coffee, green",2011,4109.9,North America
+Costa Rica,"Coffee, green",2012,3892.3,North America
+Costa Rica,"Coffee, green",2013,2786.9,North America
+Costa Rica,"Coffee, green",2014,2822.6,North America
+Costa Rica,"Coffee, green",2015,3469.0,North America
+Costa Rica,"Coffee, green",2016,2872.6,North America
+Costa Rica,"Coffee, green",2017,3162.7,North America
+Costa Rica,"Coffee, green",2018,2971.1,North America
+Côte d'Ivoire,"Cocoa, beans",1991,709.0,Africa
+Côte d'Ivoire,"Coffee, green",1991,1382.5,Africa
+Côte d'Ivoire,"Cocoa, beans",1992,755.6,Africa
+Côte d'Ivoire,"Coffee, green",1992,876.5,Africa
+Côte d'Ivoire,"Cocoa, beans",1993,706.3,Africa
+Côte d'Ivoire,"Coffee, green",1993,706.3,Africa
+Côte d'Ivoire,"Cocoa, beans",1994,567.4,Africa
+Côte d'Ivoire,"Coffee, green",1994,954.6,Africa
+Côte d'Ivoire,"Cocoa, beans",1995,641.1,Africa
+Côte d'Ivoire,"Coffee, green",1995,1402.4,Africa
+Côte d'Ivoire,"Cocoa, beans",1996,625.5,Africa
+Côte d'Ivoire,"Coffee, green",1996,1368.4,Africa
+Côte d'Ivoire,"Cocoa, beans",1997,736.7,Africa
+Côte d'Ivoire,"Coffee, green",1997,959.4,Africa
+Côte d'Ivoire,"Cocoa, beans",1998,771.2,Africa
+Côte d'Ivoire,"Coffee, green",1998,881.4,Africa
+Côte d'Ivoire,"Cocoa, beans",1999,568.5,Africa
+Côte d'Ivoire,"Coffee, green",1999,844.6,Africa
+Côte d'Ivoire,"Cocoa, beans",2000,439.6,Africa
+Côte d'Ivoire,"Coffee, green",2000,446.6,Africa
+Côte d'Ivoire,"Cocoa, beans",2001,645.3,Africa
+Côte d'Ivoire,"Coffee, green",2001,326.0,Africa
+Côte d'Ivoire,"Cocoa, beans",2002,949.8,Africa
+Côte d'Ivoire,"Coffee, green",2002,335.7,Africa
+Côte d'Ivoire,"Cocoa, beans",2003,1183.8,Africa
+Côte d'Ivoire,"Coffee, green",2003,402.6,Africa
+Côte d'Ivoire,"Cocoa, beans",2004,391.8,Africa
+Côte d'Ivoire,"Coffee, green",2004,672.0,Africa
+Côte d'Ivoire,"Cocoa, beans",2005,623.7,Africa
+Côte d'Ivoire,"Coffee, green",2005,474.0,Africa
+Côte d'Ivoire,"Cocoa, beans",2006,656.0,Africa
+Côte d'Ivoire,"Coffee, green",2006,793.7,Africa
+Côte d'Ivoire,"Cocoa, beans",2007,792.9,Africa
+Côte d'Ivoire,"Coffee, green",2007,934.8,Africa
+Côte d'Ivoire,"Cocoa, beans",2008,1042.9,Africa
+Côte d'Ivoire,"Coffee, green",2008,1391.2,Africa
+Côte d'Ivoire,"Cocoa, beans",2009,1313.0,Africa
+Côte d'Ivoire,"Coffee, green",2009,853.5,Africa
+Côte d'Ivoire,"Cocoa, beans",2010,1984.7,Africa
+Côte d'Ivoire,"Coffee, green",2010,803.6,Africa
+Côte d'Ivoire,"Cocoa, beans",2011,1701.8,Africa
+Côte d'Ivoire,"Coffee, green",2011,949.4,Africa
+Dominican Republic,"Cocoa, beans",1991,686.4,North America
+Dominican Republic,"Coffee, green",1991,1396.5,North America
+Dominican Republic,"Cocoa, beans",1992,682.0,North America
+Dominican Republic,"Coffee, green",1992,1387.6,North America
+Dominican Republic,"Cocoa, beans",1993,769.8,North America
+Dominican Republic,"Coffee, green",1993,1190.8,North America
+Dominican Republic,"Cocoa, beans",1994,830.9,North America
+Dominican Republic,"Coffee, green",1994,2008.4,North America
+Dominican Republic,"Cocoa, beans",1995,1012.5,North America
+Dominican Republic,"Coffee, green",1995,2007.4,North America
+Dominican Republic,"Cocoa, beans",1996,912.0,North America
+Dominican Republic,"Coffee, green",1996,1610.1,North America
+Dominican Republic,"Cocoa, beans",1997,1124.3,North America
+Dominican Republic,"Coffee, green",1997,2373.0,North America
+Dominican Republic,"Cocoa, beans",1998,1217.5,North America
+Dominican Republic,"Coffee, green",1998,1896.0,North America
+Dominican Republic,"Cocoa, beans",1999,839.4,North America
+Dominican Republic,"Coffee, green",1999,1582.5,North America
+Dominican Republic,"Cocoa, beans",2000,527.2,North America
+Dominican Republic,"Coffee, green",2000,1416.1,North America
+Dominican Republic,"Cocoa, beans",2001,543.2,North America
+Dominican Republic,"Coffee, green",2001,813.2,North America
+Dominican Republic,"Cocoa, beans",2002,1130.4,North America
+Dominican Republic,"Coffee, green",2002,990.9,North America
+Dominican Republic,"Cocoa, beans",2003,1006.0,North America
+Dominican Republic,"Coffee, green",2003,941.5,North America
+Dominican Republic,"Cocoa, beans",2004,833.0,North America
+Dominican Republic,"Coffee, green",2004,1204.4,North America
+Dominican Republic,"Cocoa, beans",2005,1010.0,North America
+Dominican Republic,"Coffee, green",2005,1762.7,North America
+Dominican Republic,"Cocoa, beans",2006,901.1,North America
+Dominican Republic,"Coffee, green",2006,1437.1,North America
+Dominican Republic,"Cocoa, beans",2007,1187.5,North America
+Dominican Republic,"Coffee, green",2007,1667.2,North America
+Dominican Republic,"Cocoa, beans",2008,2071.8,North America
+Dominican Republic,"Coffee, green",2008,1748.5,North America
+Dominican Republic,"Cocoa, beans",2009,1789.4,North America
+Dominican Republic,"Coffee, green",2009,1909.3,North America
+Dominican Republic,"Cocoa, beans",2010,2300.6,North America
+Dominican Republic,"Coffee, green",2010,2563.8,North America
+Dominican Republic,"Cocoa, beans",2011,2776.7,North America
+Dominican Republic,"Coffee, green",2011,2759.2,North America
+Dominican Republic,"Cocoa, beans",2012,3307.0,North America
+Dominican Republic,"Coffee, green",2012,3029.3,North America
+Dominican Republic,"Cocoa, beans",2013,2027.5,North America
+Dominican Republic,"Coffee, green",2013,3126.5,North America
+Dominican Republic,"Cocoa, beans",2014,2699.5,North America
+Dominican Republic,"Coffee, green",2014,3128.7,North America
+Dominican Republic,"Cocoa, beans",2015,2630.4,North America
+Dominican Republic,"Coffee, green",2015,2921.3,North America
+Dominican Republic,"Cocoa, beans",2016,2575.6,North America
+Dominican Republic,"Coffee, green",2016,2329.4,North America
+Dominican Republic,"Cocoa, beans",2017,2343.3,North America
+Dominican Republic,"Coffee, green",2017,2611.9,North America
+Dominican Republic,"Cocoa, beans",2018,2218.1,North America
+Dominican Republic,"Coffee, green",2018,3051.1,North America
+Ecuador,"Cocoa, beans",1991,35.7,South America
+Ecuador,"Coffee, green",1991,4.8,South America
+Ecuador,"Cocoa, beans",1992,48.1,South America
+Ecuador,"Coffee, green",1992,5.2,South America
+Ecuador,"Cocoa, beans",1993,59.3,South America
+Ecuador,"Coffee, green",1993,8.6,South America
+Ecuador,"Cocoa, beans",1994,90.4,South America
+Ecuador,"Coffee, green",1994,14.2,South America
+Ecuador,"Cocoa, beans",1995,106.2,South America
+Ecuador,"Coffee, green",1995,33.5,South America
+Ecuador,"Cocoa, beans",1996,132.0,South America
+Ecuador,"Coffee, green",1996,24.7,South America
+Ecuador,"Cocoa, beans",1997,197.7,South America
+Ecuador,"Coffee, green",1997,32.9,South America
+Ecuador,"Cocoa, beans",1998,277.8,South America
+Ecuador,"Coffee, green",1998,32.6,South America
+Ecuador,"Cocoa, beans",1999,344.3,South America
+Ecuador,"Coffee, green",1999,54.8,South America
+Ecuador,"Cocoa, beans",2000,640.0,South America
+Ecuador,"Coffee, green",2000,1280.0,South America
+Ecuador,"Cocoa, beans",2001,816.5,South America
+Ecuador,"Coffee, green",2001,1090.0,South America
+Ecuador,"Cocoa, beans",2002,1397.7,South America
+Ecuador,"Coffee, green",2002,700.0,South America
+Ecuador,"Cocoa, beans",2003,1379.5,South America
+Ecuador,"Coffee, green",2003,770.0,South America
+Ecuador,"Cocoa, beans",2004,1175.2,South America
+Ecuador,"Coffee, green",2004,679.0,South America
+Ecuador,"Cocoa, beans",2005,1242.7,South America
+Ecuador,"Coffee, green",2005,1035.0,South America
+Ecuador,"Cocoa, beans",2006,1491.9,South America
+Ecuador,"Coffee, green",2006,710.3,South America
+Ecuador,"Cocoa, beans",2007,1901.6,South America
+Ecuador,"Coffee, green",2007,1129.1,South America
+Ecuador,"Cocoa, beans",2008,1660.0,South America
+Ecuador,"Coffee, green",2008,916.6,South America
+Ecuador,"Cocoa, beans",2009,1820.0,South America
+Ecuador,"Coffee, green",2009,1070.6,South America
+Ecuador,"Cocoa, beans",2010,2490.0,South America
+Ecuador,"Coffee, green",2010,1680.4,South America
+Ecuador,"Cocoa, beans",2011,1860.0,South America
+Ecuador,"Coffee, green",2011,1370.3,South America
+Ecuador,"Cocoa, beans",2012,1829.5,South America
+Ecuador,"Coffee, green",2012,1587.1,South America
+Ecuador,"Cocoa, beans",2013,1922.3,South America
+Ecuador,"Coffee, green",2013,1710.0,South America
+Ecuador,"Cocoa, beans",2014,2410.8,South America
+Ecuador,"Coffee, green",2014,1753.7,South America
+Ecuador,"Cocoa, beans",2015,2382.2,South America
+Ecuador,"Coffee, green",2015,1980.7,South America
+Ecuador,"Cocoa, beans",2016,2300.3,South America
+Ecuador,"Coffee, green",2016,435.8,South America
+Ecuador,Tea,2016,10000.0,South America
+Ecuador,"Cocoa, beans",2017,1609.4,South America
+Ecuador,"Coffee, green",2017,305.5,South America
+Ecuador,Tea,2017,10000.0,South America
+Ecuador,"Cocoa, beans",2018,1942.8,South America
+Ecuador,"Coffee, green",2018,273.6,South America
+Ecuador,"Cocoa, beans",2019,2039.4,South America
+Ecuador,"Coffee, green",2019,269.0,South America
+El Salvador,"Coffee, green",1991,961.7,North America
+El Salvador,"Coffee, green",1992,672.2,North America
+El Salvador,"Coffee, green",1993,769.5,North America
+El Salvador,"Coffee, green",1994,2160.7,North America
+El Salvador,"Coffee, green",1995,2188.0,North America
+El Salvador,"Coffee, green",1996,1633.0,North America
+El Salvador,"Coffee, green",1997,2724.1,North America
+El Salvador,"Coffee, green",1998,1851.2,North America
+El Salvador,"Coffee, green",1999,1239.1,North America
+El Salvador,"Coffee, green",2000,969.6,North America
+El Salvador,"Coffee, green",2001,383.7,North America
+El Salvador,"Coffee, green",2002,475.3,North America
+El Salvador,"Coffee, green",2003,559.1,North America
+El Salvador,"Coffee, green",2004,873.0,North America
+El Salvador,"Coffee, green",2005,2085.0,North America
+El Salvador,"Coffee, green",2006,2428.0,North America
+El Salvador,"Coffee, green",2007,1663.4,North America
+El Salvador,"Coffee, green",2008,2098.4,North America
+El Salvador,"Coffee, green",2009,1760.0,North America
+El Salvador,"Cocoa, beans",2010,3725.7,North America
+El Salvador,"Coffee, green",2011,4160.4,North America
+El Salvador,"Coffee, green",2012,2860.0,North America
+El Salvador,"Cocoa, beans",2013,2200.0,North America
+El Salvador,"Coffee, green",2013,1927.4,North America
+El Salvador,"Cocoa, beans",2014,3300.0,North America
+El Salvador,"Coffee, green",2014,2598.2,North America
+El Salvador,"Cocoa, beans",2015,3256.0,North America
+El Salvador,"Coffee, green",2015,3806.0,North America
+El Salvador,"Cocoa, beans",2016,3212.0,North America
+El Salvador,"Cocoa, beans",2017,2970.0,North America
+El Salvador,"Cocoa, beans",2018,3280.0,North America
+Equatorial Guinea,"Cocoa, beans",1991,886.2,Africa
+Equatorial Guinea,"Coffee, green",1991,531.7,Africa
+Equatorial Guinea,"Cocoa, beans",1992,944.5,Africa
+Equatorial Guinea,"Coffee, green",1992,566.7,Africa
+Equatorial Guinea,"Cocoa, beans",1993,1130.1,Africa
+Equatorial Guinea,"Coffee, green",1993,529.7,Africa
+Equatorial Guinea,"Cocoa, beans",1994,585.4,Africa
+Equatorial Guinea,"Coffee, green",1994,225.1,Africa
+Equatorial Guinea,"Cocoa, beans",1995,801.4,Africa
+Equatorial Guinea,"Coffee, green",1995,1202.0,Africa
+Equatorial Guinea,"Cocoa, beans",1996,977.4,Africa
+Equatorial Guinea,"Coffee, green",1996,1172.9,Africa
+Equatorial Guinea,"Cocoa, beans",1997,771.0,Africa
+Equatorial Guinea,"Coffee, green",1997,856.6,Africa
+Equatorial Guinea,"Cocoa, beans",1998,847.5,Africa
+Equatorial Guinea,"Coffee, green",1998,678.0,Africa
+Equatorial Guinea,"Cocoa, beans",1999,812.1,Africa
+Equatorial Guinea,"Coffee, green",1999,568.5,Africa
+Equatorial Guinea,"Cocoa, beans",2000,561.8,Africa
+Equatorial Guinea,"Coffee, green",2000,491.6,Africa
+Equatorial Guinea,"Cocoa, beans",2001,682.1,Africa
+Equatorial Guinea,"Coffee, green",2001,409.3,Africa
+Equatorial Guinea,"Cocoa, beans",2002,1147.8,Africa
+Equatorial Guinea,"Coffee, green",2002,430.4,Africa
+Equatorial Guinea,"Cocoa, beans",2003,1290.4,Africa
+Equatorial Guinea,"Coffee, green",2003,602.2,Africa
+Ethiopia,"Coffee, green",1994,951.5,Africa
+Ethiopia,"Coffee, green",1995,891.5,Africa
+Ethiopia,"Coffee, green",1996,554.2,Africa
+Ethiopia,"Coffee, green",1997,557.4,Africa
+Ethiopia,"Coffee, green",1998,656.3,Africa
+Ethiopia,"Coffee, green",1999,938.0,Africa
+Ethiopia,"Coffee, green",2000,882.3,Africa
+Ethiopia,"Coffee, green",2001,935.3,Africa
+Ethiopia,"Coffee, green",2002,520.6,Africa
+Ethiopia,"Coffee, green",2003,667.5,Africa
+Ethiopia,"Coffee, green",2004,1130.0,Africa
+Ethiopia,"Coffee, green",2005,1438.5,Africa
+Ethiopia PDR,"Coffee, green",1991,822.7,N/A
+Ethiopia PDR,"Coffee, green",1992,590.2,N/A
+Fiji,"Cocoa, beans",1998,604.0,Oceania
+Fiji,"Cocoa, beans",1999,660.0,Oceania
+Fiji,"Cocoa, beans",2000,610.7,Oceania
+Fiji,"Cocoa, beans",2001,615.0,Oceania
+Fiji,"Cocoa, beans",2002,686.0,Oceania
+Fiji,"Cocoa, beans",2003,1055.1,Oceania
+Fiji,"Cocoa, beans",2004,1154.1,Oceania
+Fiji,"Cocoa, beans",2005,1330.6,Oceania
+Fiji,"Cocoa, beans",2006,1299.7,Oceania
+Fiji,"Cocoa, beans",2007,1397.3,Oceania
+Fiji,"Cocoa, beans",2008,1411.8,Oceania
+Fiji,"Cocoa, beans",2015,2026.1,Oceania
+Fiji,"Cocoa, beans",2016,1957.3,Oceania
+Fiji,"Cocoa, beans",2017,1790.1,Oceania
+Fiji,"Cocoa, beans",2018,2395.3,Oceania
+Fiji,"Cocoa, beans",2019,2175.5,Oceania
+Georgia,Tea,2006,151.0,Asia
+Georgia,Tea,2007,35.6,Asia
+Georgia,Tea,2008,89.7,Asia
+Georgia,Tea,2009,140.1,Asia
+Ghana,"Cocoa, beans",1991,608.7,Africa
+Ghana,"Coffee, green",1991,815.2,Africa
+Ghana,"Cocoa, beans",1992,574.8,Africa
+Ghana,"Coffee, green",1992,714.0,Africa
+Ghana,"Cocoa, beans",1993,397.5,Africa
+Ghana,"Coffee, green",1993,893.7,Africa
+Ghana,"Cocoa, beans",1994,322.2,Africa
+Ghana,"Coffee, green",1994,889.1,Africa
+Ghana,"Cocoa, beans",1995,583.8,Africa
+Ghana,"Coffee, green",1995,1914.1,Africa
+Ghana,"Cocoa, beans",1996,581.0,Africa
+Ghana,"Coffee, green",1996,1376.1,Africa
+Ghana,"Cocoa, beans",1997,585.9,Africa
+Ghana,"Coffee, green",1997,813.8,Africa
+Ghana,"Cocoa, beans",1998,778.5,Africa
+Ghana,"Coffee, green",1998,1066.9,Africa
+Ghana,"Cocoa, beans",1999,844.0,Africa
+Ghana,"Cocoa, beans",2000,412.9,Africa
+Ghana,"Cocoa, beans",2001,485.1,Africa
+Ghana,"Cocoa, beans",2002,782.4,Africa
+Ghana,"Cocoa, beans",2003,1014.0,Africa
+Ghana,"Cocoa, beans",2004,1000.6,Africa
+Ghana,"Cocoa, beans",2005,993.0,Africa
+Ghana,"Cocoa, beans",2006,998.4,Africa
+Ghana,"Cocoa, beans",2007,978.4,Africa
+Ghana,"Cocoa, beans",2008,1134.3,Africa
+Ghana,"Cocoa, beans",2009,1158.4,Africa
+Ghana,"Cocoa, beans",2010,1677.1,Africa
+Ghana,"Cocoa, beans",2011,1813.1,Africa
+Grenada,"Cocoa, beans",2010,2143.4,North America
+Grenada,"Cocoa, beans",2011,2143.4,North America
+Grenada,"Cocoa, beans",2012,2143.4,North America
+Grenada,"Cocoa, beans",2013,2143.4,North America
+Grenada,"Cocoa, beans",2014,3062.0,North America
+Grenada,"Cocoa, beans",2015,2143.4,North America
+Grenada,"Cocoa, beans",2016,2141.5,North America
+Grenada,"Cocoa, beans",2017,2141.5,North America
+Grenada,"Cocoa, beans",2018,2141.5,North America
+Grenada,"Cocoa, beans",2019,2141.5,North America
+Guinea,"Cocoa, beans",1991,497.8,Africa
+Guinea,"Coffee, green",1991,596.9,Africa
+Guinea,"Cocoa, beans",1992,457.8,Africa
+Guinea,"Coffee, green",1992,554.3,Africa
+Guinea,"Cocoa, beans",1993,439.6,Africa
+Guinea,"Coffee, green",1993,523.3,Africa
+Guinea,"Cocoa, beans",1994,430.0,Africa
+Guinea,"Coffee, green",1994,512.0,Africa
+Guinea,"Cocoa, beans",1995,423.6,Africa
+Guinea,"Coffee, green",1995,504.3,Africa
+Guinea,"Cocoa, beans",1996,418.3,Africa
+Guinea,"Coffee, green",1996,498.0,Africa
+Guinea,"Cocoa, beans",1997,388.3,Africa
+Guinea,"Coffee, green",1997,462.2,Africa
+Guinea,"Coffee, green",1998,1404.8,Africa
+Guinea,"Cocoa, beans",1999,568.2,Africa
+Guinea,"Coffee, green",1999,883.6,Africa
+Guinea,"Cocoa, beans",2000,362.0,Africa
+Guinea,"Coffee, green",2000,655.7,Africa
+Guinea,"Cocoa, beans",2001,653.7,Africa
+Guinea,"Coffee, green",2001,412.4,Africa
+Guinea,"Cocoa, beans",2002,985.2,Africa
+Guinea,"Coffee, green",2002,410.3,Africa
+Guinea,"Cocoa, beans",2003,1038.5,Africa
+Guinea,"Coffee, green",2003,485.6,Africa
+Guinea,"Cocoa, beans",2016,123.0,Africa
+Guinea,"Coffee, green",2016,568.6,Africa
+Guinea,"Cocoa, beans",2017,128.6,Africa
+Guinea,"Coffee, green",2017,594.1,Africa
+Guinea,"Cocoa, beans",2018,137.5,Africa
+Guinea,"Coffee, green",2018,635.1,Africa
+Honduras,"Coffee, green",1991,1020.2,North America
+Honduras,"Coffee, green",1992,949.1,North America
+Honduras,"Coffee, green",1993,1245.0,North America
+Honduras,"Coffee, green",1994,2312.5,North America
+Honduras,"Coffee, green",1995,1845.7,North America
+Honduras,"Coffee, green",1996,1971.6,North America
+Honduras,"Coffee, green",1997,2304.8,North America
+Honduras,"Coffee, green",1998,1737.8,North America
+Honduras,"Coffee, green",1999,1403.5,North America
+Honduras,"Coffee, green",2000,1464.4,North America
+Honduras,"Coffee, green",2001,1529.8,North America
+Honduras,"Coffee, green",2002,842.2,North America
+Honduras,"Coffee, green",2003,937.6,North America
+Honduras,"Cocoa, beans",2004,1763.1,North America
+Honduras,"Coffee, green",2004,1329.2,North America
+Honduras,"Cocoa, beans",2005,1725.8,North America
+Honduras,"Coffee, green",2005,1752.3,North America
+Honduras,"Cocoa, beans",2006,1746.5,North America
+Honduras,"Coffee, green",2006,2095.8,North America
+Honduras,"Cocoa, beans",2007,1164.3,North America
+Honduras,"Coffee, green",2007,2328.6,North America
+Honduras,"Coffee, green",2008,2377.8,North America
+India,"Coffee, green",2001,1193.8,Asia
+India,Tea,2001,229.4,Asia
+Indonesia,"Cocoa, beans",1991,759.3,Asia
+Indonesia,"Coffee, green",1991,1037.2,Asia
+Indonesia,Tea,1991,658.2,Asia
+Indonesia,"Coffee, green",1992,953.0,Asia
+Indonesia,Tea,1992,672.5,Asia
+Indonesia,"Cocoa, beans",1993,631.9,Asia
+Indonesia,"Coffee, green",1993,925.1,Asia
+Indonesia,Tea,1993,659.9,Asia
+Indonesia,"Coffee, green",1994,1443.5,Asia
+Indonesia,Tea,1994,673.3,Asia
+Indonesia,"Cocoa, beans",1995,873.0,Asia
+Indonesia,"Coffee, green",1995,1936.7,Asia
+Indonesia,Tea,1995,764.6,Asia
+Indonesia,"Cocoa, beans",1996,884.0,Asia
+Indonesia,"Coffee, green",1996,1645.8,Asia
+Indonesia,Tea,1996,819.3,Asia
+Indonesia,"Cocoa, beans",1997,887.9,Asia
+Indonesia,"Coffee, green",1997,1341.5,Asia
+Indonesia,Tea,1997,712.8,Asia
+Indonesia,"Cocoa, beans",1998,628.7,Asia
+Indonesia,"Coffee, green",1998,578.2,Asia
+Indonesia,Tea,1998,271.4,Asia
+Indonesia,"Coffee, green",1999,1040.3,Asia
+Indonesia,Tea,1999,400.0,Asia
+Indonesia,"Coffee, green",2000,917.5,Asia
+Indonesia,Tea,2000,452.9,Asia
+Indonesia,"Coffee, green",2001,762.8,Asia
+Indonesia,Tea,2001,385.0,Asia
+Indonesia,"Coffee, green",2002,580.9,Asia
+Indonesia,"Coffee, green",2003,660.8,Asia
+Indonesia,"Coffee, green",2004,645.9,Asia
+Indonesia,"Cocoa, beans",2005,928.5,Asia
+Indonesia,"Coffee, green",2005,658.0,Asia
+Indonesia,Tea,2005,525.9,Asia
+Indonesia,"Cocoa, beans",2006,970.3,Asia
+Indonesia,"Coffee, green",2006,857.8,Asia
+Indonesia,Tea,2006,516.8,Asia
+Indonesia,"Cocoa, beans",2007,1153.1,Asia
+Indonesia,"Coffee, green",2007,1204.5,Asia
+Indonesia,Tea,2007,517.4,Asia
+Indonesia,"Cocoa, beans",2008,1456.5,Asia
+Indonesia,"Coffee, green",2008,1414.8,Asia
+Indonesia,Tea,2008,515.5,Asia
+Indonesia,"Cocoa, beans",2009,1588.4,Asia
+Indonesia,"Coffee, green",2009,1348.1,Asia
+Indonesia,Tea,2009,574.3,Asia
+Indonesia,"Cocoa, beans",2010,2079.4,Asia
+Indonesia,"Coffee, green",2010,1536.7,Asia
+Indonesia,Tea,2010,656.3,Asia
+Indonesia,"Cocoa, beans",2011,2195.9,Asia
+Indonesia,"Coffee, green",2011,1786.9,Asia
+Indonesia,"Cocoa, beans",2012,1949.3,Asia
+Indonesia,"Coffee, green",2012,1747.8,Asia
+Indonesia,"Cocoa, beans",2013,1822.6,Asia
+Indonesia,"Coffee, green",2013,1582.0,Asia
+Indonesia,"Cocoa, beans",2014,1966.7,Asia
+Indonesia,"Coffee, green",2014,1475.8,Asia
+Indonesia,"Cocoa, beans",2015,1742.8,Asia
+Indonesia,"Coffee, green",2015,1429.1,Asia
+Indonesia,"Cocoa, beans",2016,1868.8,Asia
+Indonesia,"Coffee, green",2016,1488.8,Asia
+Indonesia,"Cocoa, beans",2017,1604.9,Asia
+Indonesia,"Coffee, green",2017,1853.6,Asia
+Indonesia,"Cocoa, beans",2018,1507.3,Asia
+Indonesia,"Coffee, green",2018,1783.6,Asia
+Indonesia,"Cocoa, beans",2019,1329.8,Asia
+Indonesia,"Coffee, green",2019,1528.2,Asia
+Iran (Islamic Republic of),Tea,1991,625.4,N/A
+Iran (Islamic Republic of),Tea,1992,587.7,N/A
+Iran (Islamic Republic of),Tea,1993,561.7,N/A
+Iran (Islamic Republic of),Tea,1994,466.6,N/A
+Iran (Islamic Republic of),Tea,1998,237.1,N/A
+Iran (Islamic Republic of),Tea,1999,227.7,N/A
+Iran (Islamic Republic of),Tea,2000,217.9,N/A
+Iran (Islamic Republic of),Tea,2001,220.6,N/A
+Iran (Islamic Republic of),Tea,2002,219.4,N/A
+Iran (Islamic Republic of),Tea,2003,187.1,N/A
+Iran (Islamic Republic of),Tea,2004,102.4,N/A
+Iran (Islamic Republic of),Tea,2005,200.8,N/A
+Iran (Islamic Republic of),Tea,2006,232.3,N/A
+Iran (Islamic Republic of),Tea,2007,236.0,N/A
+Iran (Islamic Republic of),Tea,2008,285.5,N/A
+Iran (Islamic Republic of),Tea,2009,327.8,N/A
+Iran (Islamic Republic of),Tea,2010,309.4,N/A
+Iran (Islamic Republic of),Tea,2011,363.6,N/A
+Iran (Islamic Republic of),Tea,2012,350.3,N/A
+Iran (Islamic Republic of),Tea,2013,475.7,N/A
+Iran (Islamic Republic of),Tea,2014,547.8,N/A
+Iran (Islamic Republic of),Tea,2015,602.7,N/A
+Iran (Islamic Republic of),Tea,2016,511.5,N/A
+Iran (Islamic Republic of),Tea,2017,551.8,N/A
+Iran (Islamic Republic of),Tea,2018,486.5,N/A
+Iran (Islamic Republic of),Tea,2019,288.5,N/A
+Jamaica,"Cocoa, beans",1991,241.7,North America
+Jamaica,"Cocoa, beans",1992,314.5,North America
+Jamaica,"Cocoa, beans",1993,240.5,North America
+Jamaica,"Cocoa, beans",1994,199.5,North America
+Jamaica,"Cocoa, beans",1995,239.6,North America
+Jamaica,"Cocoa, beans",1996,307.3,North America
+Jamaica,"Coffee, green",1996,1526.6,North America
+Jamaica,"Cocoa, beans",1997,316.4,North America
+Jamaica,"Coffee, green",1997,1600.5,North America
+Jamaica,"Cocoa, beans",1998,344.8,North America
+Jamaica,"Coffee, green",1998,1655.4,North America
+Jamaica,"Cocoa, beans",1999,322.8,North America
+Jamaica,"Coffee, green",1999,1549.7,North America
+Jamaica,"Cocoa, beans",2000,316.4,North America
+Jamaica,"Coffee, green",2000,1410.4,North America
+Jamaica,"Cocoa, beans",2001,317.5,North America
+Jamaica,"Coffee, green",2001,1398.0,North America
+Jamaica,"Cocoa, beans",2002,826.3,North America
+Jamaica,"Coffee, green",2002,1414.6,North America
+Jamaica,"Cocoa, beans",2003,749.1,North America
+Jamaica,"Coffee, green",2003,1186.2,North America
+Jamaica,"Cocoa, beans",2004,964.2,North America
+Jamaica,"Coffee, green",2004,1501.0,North America
+Jamaica,"Cocoa, beans",2005,947.4,North America
+Jamaica,"Coffee, green",2005,1769.9,North America
+Jamaica,"Cocoa, beans",2006,973.6,North America
+Jamaica,"Coffee, green",2006,1816.4,North America
+Jamaica,"Cocoa, beans",2007,1647.7,North America
+Jamaica,"Coffee, green",2007,1806.4,North America
+Jamaica,"Cocoa, beans",2008,2006.8,North America
+Jamaica,"Coffee, green",2008,1717.9,North America
+Jamaica,"Cocoa, beans",2009,1661.2,North America
+Jamaica,"Coffee, green",2009,1422.0,North America
+Jamaica,"Cocoa, beans",2010,1674.5,North America
+Jamaica,"Coffee, green",2010,1344.2,North America
+Jamaica,"Cocoa, beans",2011,1886.1,North America
+Jamaica,"Coffee, green",2011,1323.5,North America
+Jamaica,"Cocoa, beans",2012,2253.5,North America
+Jamaica,"Coffee, green",2012,1366.2,North America
+Jamaica,"Cocoa, beans",2013,1995.2,North America
+Jamaica,"Coffee, green",2013,1282.9,North America
+Jamaica,"Cocoa, beans",2014,1802.9,North America
+Jamaica,"Coffee, green",2014,1656.1,North America
+Jamaica,"Cocoa, beans",2015,1710.9,North America
+Jamaica,"Coffee, green",2015,2572.2,North America
+Jamaica,"Cocoa, beans",2016,2078.4,North America
+Jamaica,"Coffee, green",2016,2695.1,North America
+Jamaica,"Cocoa, beans",2017,2031.8,North America
+Jamaica,"Coffee, green",2017,2551.0,North America
+Jamaica,"Cocoa, beans",2018,2017.5,North America
+Jamaica,"Coffee, green",2018,1646.2,North America
+Jamaica,"Cocoa, beans",2019,2025.3,North America
+Jamaica,"Coffee, green",2019,1239.2,North America
+Japan,Tea,1991,12078.1,Asia
+Japan,Tea,1992,15072.9,Asia
+Japan,Tea,1993,18714.4,Asia
+Japan,Tea,1994,15683.7,Asia
+Japan,Tea,1995,26547.0,Asia
+Japan,Tea,1996,26861.8,Asia
+Japan,Tea,1997,17943.5,Asia
+Japan,Tea,1998,14690.0,Asia
+Japan,Tea,1999,26460.2,Asia
+Japan,Tea,2000,23476.9,Asia
+Japan,Tea,2001,19007.8,Asia
+Japan,Tea,2002,14427.2,Asia
+Japan,Tea,2003,16699.2,Asia
+Japan,Tea,2004,18901.5,Asia
+Japan,Tea,2005,17746.6,Asia
+Japan,Tea,2006,15804.1,Asia
+Japan,Tea,2007,15218.2,Asia
+Japan,Tea,2008,14793.0,Asia
+Japan,Tea,2009,14865.9,Asia
+Japan,Tea,2010,18170.4,Asia
+Japan,Tea,2011,21251.3,Asia
+Japan,Tea,2012,19313.1,Asia
+Japan,Tea,2013,16179.0,Asia
+Japan,Tea,2014,14205.5,Asia
+Japan,Tea,2015,12119.6,Asia
+Japan,Tea,2016,13907.2,Asia
+Japan,Tea,2017,16529.1,Asia
+Japan,Tea,2018,14453.5,Asia
+Japan,Tea,2019,13980.4,Asia
+Kenya,"Coffee, green",1991,1691.9,Africa
+Kenya,Tea,1991,1398.9,Africa
+Kenya,"Coffee, green",1992,1286.9,Africa
+Kenya,Tea,1992,907.8,Africa
+Kenya,"Coffee, green",1993,1704.4,Africa
+Kenya,Tea,1993,1593.4,Africa
+Kenya,"Coffee, green",1994,2574.1,Africa
+Kenya,Tea,1994,1560.6,Africa
+Kenya,"Coffee, green",1995,3104.4,Africa
+Kenya,Tea,1995,1319.6,Africa
+Kenya,"Coffee, green",1996,2436.0,Africa
+Kenya,Tea,1996,1384.6,Africa
+Kenya,"Coffee, green",1997,4282.2,Africa
+Kenya,Tea,1997,1818.4,Africa
+Kenya,"Coffee, green",1998,4260.3,Africa
+Kenya,Tea,1998,2203.2,Africa
+Kenya,"Coffee, green",1999,2222.8,Africa
+Kenya,Tea,1999,1777.4,Africa
+Kenya,"Coffee, green",2000,1510.8,Africa
+Kenya,Tea,2000,1998.4,Africa
+Kenya,"Coffee, green",2001,1498.9,Africa
+Kenya,Tea,2001,1666.0,Africa
+Kenya,"Coffee, green",2002,1519.1,Africa
+Kenya,Tea,2002,1477.9,Africa
+Kenya,"Coffee, green",2003,1281.2,Africa
+Kenya,Tea,2003,1553.0,Africa
+Kenya,"Coffee, green",2004,1842.9,Africa
+Kenya,Tea,2004,1603.6,Africa
+Kenya,"Coffee, green",2005,1573.2,Africa
+Kenya,Tea,2005,1564.5,Africa
+Kenya,"Coffee, green",2006,2751.4,Africa
+Kenya,Tea,2006,2016.8,Africa
+Kenya,"Coffee, green",2007,2583.4,Africa
+Kenya,Tea,2007,1763.9,Africa
+Kenya,"Coffee, green",2008,2561.9,Africa
+Kenya,Tea,2008,2315.2,Africa
+Kenya,"Coffee, green",2009,2526.7,Africa
+Kenya,Tea,2009,2749.0,Africa
+Kenya,"Coffee, green",2010,5007.7,Africa
+Kenya,Tea,2010,2782.3,Africa
+Kenya,"Coffee, green",2011,6694.3,Africa
+Kenya,Tea,2011,2983.8,Africa
+Kenya,"Coffee, green",2012,3949.8,Africa
+Kenya,Tea,2012,3209.5,Africa
+Kenya,"Coffee, green",2013,3298.7,Africa
+Kenya,Tea,2013,2543.3,Africa
+Kenya,"Coffee, green",2014,4456.9,Africa
+Kenya,Tea,2014,2168.3,Africa
+Kenya,"Coffee, green",2015,3817.5,Africa
+Kenya,Tea,2015,3020.6,Africa
+Kenya,"Coffee, green",2016,4021.1,Africa
+Kenya,Tea,2016,2436.6,Africa
+Lao People's Democratic Republic,"Coffee, green",1995,1158.2,Asia
+Lao People's Democratic Republic,"Coffee, green",1996,1361.5,Asia
+Lao People's Democratic Republic,"Coffee, green",1997,1489.8,Asia
+Lao People's Democratic Republic,Tea,1997,1349.2,Asia
+Lao People's Democratic Republic,"Coffee, green",1998,697.3,Asia
+Lao People's Democratic Republic,Tea,1998,606.4,Asia
+Lao People's Democratic Republic,"Coffee, green",1999,510.4,Asia
+Lao People's Democratic Republic,"Coffee, green",2000,580.4,Asia
+Lao People's Democratic Republic,"Coffee, green",2001,232.3,Asia
+Lao People's Democratic Republic,"Coffee, green",2002,313.2,Asia
+Lao People's Democratic Republic,"Coffee, green",2011,473.2,Asia
+Lao People's Democratic Republic,Tea,2011,2802.0,Asia
+Lao People's Democratic Republic,"Coffee, green",2012,499.5,Asia
+Lao People's Democratic Republic,Tea,2012,2834.8,Asia
+Lao People's Democratic Republic,"Coffee, green",2013,540.3,Asia
+Lao People's Democratic Republic,Tea,2013,2595.4,Asia
+Madagascar,"Coffee, green",1991,544.9,Africa
+Madagascar,"Coffee, green",1992,268.2,Africa
+Madagascar,Tea,1992,59.0,Africa
+Madagascar,"Coffee, green",1993,261.3,Africa
+Madagascar,Tea,1993,73.2,Africa
+Madagascar,"Coffee, green",1994,2673.3,Africa
+Madagascar,Tea,1994,57.1,Africa
+Madagascar,"Coffee, green",1995,1406.6,Africa
+Madagascar,Tea,1995,49.2,Africa
+Madagascar,"Coffee, green",1996,1125.3,Africa
+Madagascar,"Cocoa, beans",1997,1610.7,Africa
+Madagascar,"Coffee, green",1997,982.1,Africa
+Madagascar,"Cocoa, beans",1998,1470.2,Africa
+Madagascar,"Coffee, green",1998,1194.5,Africa
+Madagascar,"Cocoa, beans",1999,1145.8,Africa
+Madagascar,"Coffee, green",1999,875.3,Africa
+Madagascar,Tea,1999,79.6,Africa
+Madagascar,"Cocoa, beans",2000,886.6,Africa
+Madagascar,"Coffee, green",2000,391.6,Africa
+Madagascar,"Cocoa, beans",2001,1441.9,Africa
+Madagascar,"Coffee, green",2001,302.0,Africa
+Madagascar,"Cocoa, beans",2002,1756.5,Africa
+Madagascar,"Coffee, green",2002,211.7,Africa
+Madagascar,"Coffee, green",2003,334.8,Africa
+Malaysia,"Cocoa, beans",1995,784.6,Asia
+Malaysia,"Cocoa, beans",1997,821.1,Asia
+Malaysia,"Cocoa, beans",1998,856.2,Asia
+Malaysia,"Cocoa, beans",1999,550.0,Asia
+Malaysia,"Cocoa, beans",2000,422.4,Asia
+Malaysia,"Cocoa, beans",2001,546.1,Asia
+Malaysia,"Cocoa, beans",2002,894.7,Asia
+Malaysia,"Cocoa, beans",2003,961.8,Asia
+Malaysia,"Cocoa, beans",2009,2520.4,Asia
+Malaysia,"Cocoa, beans",2010,2239.9,Asia
+Malaysia,"Cocoa, beans",2011,2149.3,Asia
+Malaysia,"Cocoa, beans",2012,2107.9,Asia
+Malaysia,"Cocoa, beans",2013,2003.9,Asia
+Malaysia,"Cocoa, beans",2014,2607.8,Asia
+Malaysia,"Cocoa, beans",2015,2055.8,Asia
+Malaysia,"Cocoa, beans",2016,2017.7,Asia
+Malaysia,"Cocoa, beans",2017,1436.6,Asia
+Malaysia,"Cocoa, beans",2018,1525.6,Asia
+Malaysia,"Cocoa, beans",2019,1598.8,Asia
+Mali,Tea,1996,733.1,Africa
+Mali,Tea,1997,899.5,Africa
+Mali,Tea,1998,889.9,Africa
+Mali,Tea,2004,2945.4,Africa
+Mauritius,Tea,1992,257.0,Africa
+Mauritius,Tea,1993,226.7,Africa
+Mauritius,Tea,1994,222.7,Africa
+Mauritius,Tea,1995,230.1,Africa
+Mauritius,Tea,1996,310.3,Africa
+Mauritius,Tea,1997,350.9,Africa
+Mauritius,Tea,1998,368.4,Africa
+Mauritius,Tea,1999,371.2,Africa
+Mauritius,Tea,2000,366.1,Africa
+Mauritius,Tea,2001,336.8,Africa
+Mauritius,Tea,2002,331.8,Africa
+Mauritius,Tea,2003,358.4,Africa
+Mauritius,Tea,2004,361.8,Africa
+Mauritius,Tea,2005,337.3,Africa
+Mauritius,Tea,2006,337.8,Africa
+Mauritius,Tea,2007,349.4,Africa
+Mauritius,Tea,2008,439.7,Africa
+Mauritius,Tea,2009,392.1,Africa
+Mauritius,Tea,2010,407.0,Africa
+Mauritius,Tea,2011,446.6,Africa
+Mauritius,Tea,2012,431.3,Africa
+Mauritius,Tea,2013,433.2,Africa
+Mauritius,Tea,2014,434.3,Africa
+Mauritius,Tea,2015,394.8,Africa
+Mauritius,Tea,2016,408.8,Africa
+Mauritius,Tea,2017,470.7,Africa
+Mauritius,Tea,2018,524.5,Africa
+Mauritius,Tea,2019,528.0,Africa
+Mexico,"Cocoa, beans",1991,1080.4,North America
+Mexico,"Coffee, green",1991,303.1,North America
+Mexico,Tea,1991,195.1,North America
+Mexico,"Cocoa, beans",1992,921.5,North America
+Mexico,"Coffee, green",1992,191.0,North America
+Mexico,Tea,1992,181.3,North America
+Mexico,"Cocoa, beans",1993,919.6,North America
+Mexico,"Coffee, green",1993,193.5,North America
+Mexico,Tea,1993,206.7,North America
+Mexico,"Cocoa, beans",1994,840.0,North America
+Mexico,"Coffee, green",1994,239.1,North America
+Mexico,Tea,1994,177.8,North America
+Mexico,"Cocoa, beans",1995,953.2,North America
+Mexico,"Coffee, green",1995,346.9,North America
+Mexico,Tea,1995,94.2,North America
+Mexico,"Cocoa, beans",1996,1076.3,North America
+Mexico,"Coffee, green",1996,404.9,North America
+Mexico,Tea,1996,92.1,North America
+Mexico,"Cocoa, beans",1997,1236.9,North America
+Mexico,"Coffee, green",1997,484.6,North America
+Mexico,"Cocoa, beans",1998,1243.5,North America
+Mexico,"Coffee, green",1998,459.9,North America
+Mexico,Tea,1998,109.5,North America
+Mexico,"Cocoa, beans",1999,1183.3,North America
+Mexico,"Coffee, green",1999,438.7,North America
+Mexico,Tea,1999,104.6,North America
+Mexico,"Cocoa, beans",2000,929.9,North America
+Mexico,"Coffee, green",2000,305.0,North America
+Mexico,Tea,2000,123.4,North America
+Mexico,"Cocoa, beans",2001,892.6,North America
+Mexico,"Coffee, green",2001,198.6,North America
+Mexico,Tea,2001,206.6,North America
+Mexico,"Cocoa, beans",2002,1465.1,North America
+Mexico,"Coffee, green",2002,167.4,North America
+Mexico,Tea,2002,212.4,North America
+Mexico,"Cocoa, beans",2003,1568.3,North America
+Mexico,"Coffee, green",2003,168.7,North America
+Mexico,Tea,2003,213.5,North America
+Mexico,"Cocoa, beans",2004,1592.4,North America
+Mexico,"Coffee, green",2004,148.4,North America
+Mexico,Tea,2004,213.8,North America
+Mexico,"Cocoa, beans",2005,1639.9,North America
+Mexico,"Coffee, green",2005,207.4,North America
+Mexico,Tea,2005,239.0,North America
+Mexico,"Cocoa, beans",2006,1413.5,North America
+Mexico,"Coffee, green",2006,244.8,North America
+Mexico,Tea,2006,251.6,North America
+Mexico,"Cocoa, beans",2007,1554.9,North America
+Mexico,"Coffee, green",2007,305.2,North America
+Mexico,Tea,2007,305.0,North America
+Mexico,"Cocoa, beans",2008,2309.2,North America
+Mexico,"Coffee, green",2008,352.0,North America
+Mexico,Tea,2008,225.7,North America
+Mexico,"Cocoa, beans",2009,2345.0,North America
+Mexico,"Coffee, green",2009,275.4,North America
+Mexico,Tea,2009,241.0,North America
+Mexico,"Cocoa, beans",2010,2965.6,North America
+Mexico,"Coffee, green",2010,340.2,North America
+Mexico,Tea,2010,250.2,North America
+Mexico,"Cocoa, beans",2011,3241.4,North America
+Mexico,"Coffee, green",2011,426.1,North America
+Mexico,Tea,2011,114.3,North America
+Mexico,"Cocoa, beans",2012,2905.9,North America
+Mexico,"Coffee, green",2012,491.2,North America
+Mexico,Tea,2012,493.6,North America
+Mexico,"Cocoa, beans",2013,2858.1,North America
+Mexico,"Coffee, green",2013,377.2,North America
+Mexico,"Cocoa, beans",2014,2672.6,North America
+Mexico,"Coffee, green",2014,360.9,North America
+Mexico,Tea,2014,122.7,North America
+Mexico,"Cocoa, beans",2015,2331.4,North America
+Mexico,"Coffee, green",2015,328.4,North America
+Mexico,Tea,2015,95.4,North America
+Mexico,"Cocoa, beans",2016,2095.5,North America
+Mexico,"Coffee, green",2016,294.1,North America
+Mexico,Tea,2016,80.1,North America
+Mexico,"Cocoa, beans",2017,2080.2,North America
+Mexico,"Coffee, green",2017,310.3,North America
+Mexico,Tea,2017,72.3,North America
+Mexico,"Cocoa, beans",2018,1969.4,North America
+Mexico,"Coffee, green",2018,301.9,North America
+Mexico,Tea,2018,68.7,North America
+Mexico,"Cocoa, beans",2019,1996.8,North America
+Mexico,"Coffee, green",2019,272.5,North America
+Mexico,Tea,2019,81.4,North America
+Mozambique,Tea,1997,86.6,Africa
+Mozambique,Tea,1998,84.2,Africa
+Mozambique,Tea,1999,4820.3,Africa
+Mozambique,Tea,2000,3994.8,Africa
+Mozambique,Tea,2001,3065.2,Africa
+Mozambique,Tea,2002,2609.2,Africa
+Mozambique,Tea,2003,2583.0,Africa
+Nepal,"Coffee, green",2001,1134.1,Asia
+Nepal,Tea,2001,219.8,Asia
+Nepal,"Coffee, green",2002,1155.7,Asia
+Nepal,Tea,2002,269.9,Asia
+Nepal,"Coffee, green",2003,1182.0,Asia
+Nepal,Tea,2003,260.4,Asia
+Nepal,"Coffee, green",2004,1289.5,Asia
+Nepal,Tea,2004,246.3,Asia
+Nepal,"Coffee, green",2005,1368.7,Asia
+Nepal,Tea,2005,310.8,Asia
+Nepal,"Coffee, green",2006,1380.4,Asia
+Nepal,Tea,2006,329.9,Asia
+Nepal,"Coffee, green",2007,1602.9,Asia
+Nepal,Tea,2007,383.0,Asia
+Nepal,"Coffee, green",2008,1550.4,Asia
+Nepal,Tea,2008,382.2,Asia
+Nepal,"Coffee, green",2009,1392.2,Asia
+Nepal,Tea,2009,348.1,Asia
+Nepal,"Coffee, green",2010,1474.2,Asia
+Nepal,Tea,2010,395.8,Asia
+Nepal,"Coffee, green",2011,1459.1,Asia
+Nepal,Tea,2011,437.7,Asia
+Nepal,"Coffee, green",2012,1318.8,Asia
+Nepal,Tea,2012,393.2,Asia
+Nepal,"Coffee, green",2013,1225.2,Asia
+Nepal,Tea,2013,371.0,Asia
+Nepal,"Coffee, green",2014,1324.5,Asia
+Nepal,Tea,2014,401.0,Asia
+Nepal,"Coffee, green",2015,1489.4,Asia
+Nepal,Tea,2015,451.0,Asia
+Nepal,"Coffee, green",2016,1475.5,Asia
+Nepal,Tea,2016,446.8,Asia
+Nepal,"Coffee, green",2017,1567.6,Asia
+Nepal,Tea,2017,474.7,Asia
+Nepal,Tea,2018,407.0,Asia
+Nepal,Tea,2019,454.0,Asia
+New Caledonia,"Coffee, green",2015,8938.6,Oceania
+New Caledonia,"Coffee, green",2016,10273.8,Oceania
+New Caledonia,"Coffee, green",2017,7337.3,Oceania
+Nicaragua,"Coffee, green",1991,1140.8,North America
+Nicaragua,"Coffee, green",1992,974.4,North America
+Nicaragua,"Cocoa, beans",1995,784.0,North America
+Nicaragua,"Cocoa, beans",1996,695.8,North America
+Nicaragua,"Cocoa, beans",1997,1150.5,North America
+Nicaragua,"Cocoa, beans",1998,1434.5,North America
+Nicaragua,"Cocoa, beans",1999,878.5,North America
+Nicaragua,"Cocoa, beans",2000,741.3,North America
+Nicaragua,"Cocoa, beans",2001,785.8,North America
+Nicaragua,"Cocoa, beans",2002,875.4,North America
+Nicaragua,"Cocoa, beans",2003,1386.2,North America
+Nicaragua,"Cocoa, beans",2004,1260.8,North America
+Nicaragua,"Cocoa, beans",2005,1339.8,North America
+Nicaragua,"Cocoa, beans",2006,1276.1,North America
+Nicaragua,"Cocoa, beans",2007,1380.9,North America
+Nicaragua,"Cocoa, beans",2008,1919.1,North America
+Nicaragua,"Cocoa, beans",2009,1769.7,North America
+Nicaragua,"Cocoa, beans",2010,2083.3,North America
+Nicaragua,"Cocoa, beans",2011,2265.6,North America
+Nicaragua,"Cocoa, beans",2012,1900.4,North America
+Nigeria,"Cocoa, beans",1991,1025.1,Africa
+Nigeria,"Coffee, green",1991,883.0,Africa
+Nigeria,"Cocoa, beans",1992,736.8,Africa
+Nigeria,"Cocoa, beans",1993,1145.6,Africa
+Nigeria,"Cocoa, beans",1994,1711.6,Africa
+Nigeria,"Cocoa, beans",1995,1195.3,Africa
+Nigeria,"Coffee, green",1995,2469.9,Africa
+Nigeria,"Cocoa, beans",1996,1051.7,Africa
+Nigeria,"Coffee, green",1996,1573.2,Africa
+Nigeria,"Cocoa, beans",1997,1138.5,Africa
+Nigeria,"Coffee, green",1997,941.5,Africa
+Nigeria,"Cocoa, beans",1998,963.9,Africa
+Nigeria,"Coffee, green",1998,1792.2,Africa
+Nigeria,"Cocoa, beans",1999,928.8,Africa
+Nigeria,"Coffee, green",1999,1462.0,Africa
+Nigeria,"Cocoa, beans",2000,824.2,Africa
+Nigeria,"Coffee, green",2000,1302.9,Africa
+Nigeria,"Cocoa, beans",2010,1032.5,Africa
+Nigeria,"Coffee, green",2010,465.9,Africa
+Nigeria,"Cocoa, beans",2011,1058.3,Africa
+Nigeria,"Coffee, green",2011,426.6,Africa
+Nigeria,"Cocoa, beans",2012,435.6,Africa
+Nigeria,"Coffee, green",2012,435.6,Africa
+Nigeria,"Cocoa, beans",2013,431.8,Africa
+Nigeria,"Coffee, green",2013,431.8,Africa
+Panama,"Coffee, green",1991,2030.0,North America
+Panama,"Coffee, green",1992,1888.0,North America
+Panama,"Coffee, green",1993,2435.0,North America
+Panama,"Coffee, green",1994,2022.0,North America
+Panama,"Coffee, green",1995,2040.0,North America
+Panama,"Coffee, green",1996,1469.0,North America
+Panama,"Coffee, green",1997,2116.0,North America
+Panama,"Coffee, green",1998,2649.0,North America
+Panama,"Coffee, green",1999,2350.0,North America
+Panama,"Coffee, green",2000,2263.0,North America
+Panama,"Coffee, green",2001,1621.0,North America
+Panama,"Coffee, green",2002,1529.0,North America
+Panama,"Coffee, green",2003,1432.0,North America
+Panama,"Coffee, green",2004,1706.0,North America
+Panama,"Coffee, green",2005,1369.0,North America
+Panama,"Coffee, green",2006,1536.0,North America
+Panama,"Coffee, green",2007,1135.0,North America
+Panama,"Coffee, green",2008,1454.0,North America
+Panama,"Coffee, green",2009,1516.0,North America
+Panama,"Coffee, green",2010,1690.0,North America
+Panama,"Coffee, green",2011,1807.3,North America
+Panama,"Coffee, green",2012,2621.4,North America
+Panama,"Coffee, green",2013,2928.3,North America
+Panama,"Coffee, green",2014,1754.4,North America
+Panama,"Coffee, green",2015,2880.9,North America
+Panama,"Coffee, green",2016,4658.7,North America
+Panama,"Coffee, green",2017,4106.0,North America
+Paraguay,"Coffee, green",1991,824.0,South America
+Paraguay,"Coffee, green",1994,1627.5,South America
+Paraguay,"Coffee, green",1995,703.0,South America
+Paraguay,"Coffee, green",1996,1203.3,South America
+Paraguay,"Coffee, green",1997,987.2,South America
+Paraguay,"Coffee, green",1998,833.7,South America
+Paraguay,"Coffee, green",1999,646.7,South America
+Paraguay,"Coffee, green",2000,642.5,South America
+Paraguay,"Coffee, green",2001,448.6,South America
+Paraguay,"Coffee, green",2002,193.8,South America
+Paraguay,"Coffee, green",2003,187.4,South America
+Paraguay,"Coffee, green",2004,201.5,South America
+Paraguay,"Coffee, green",2005,242.8,South America
+Peru,"Cocoa, beans",1991,660.2,South America
+Peru,"Coffee, green",1991,737.9,South America
+Peru,Tea,1991,168.3,South America
+Peru,"Cocoa, beans",1992,561.9,South America
+Peru,"Coffee, green",1992,481.6,South America
+Peru,Tea,1992,192.6,South America
+Peru,"Cocoa, beans",1993,704.1,South America
+Peru,"Coffee, green",1993,533.1,South America
+Peru,Tea,1993,155.9,South America
+Peru,"Cocoa, beans",1994,1052.4,South America
+Peru,"Coffee, green",1994,1457.9,South America
+Peru,Tea,1994,195.9,South America
+Peru,"Cocoa, beans",1995,1042.9,South America
+Peru,"Coffee, green",1995,1819.6,South America
+Peru,Tea,1995,257.4,South America
+Peru,"Cocoa, beans",1996,843.8,South America
+Peru,"Coffee, green",1996,1377.7,South America
+Peru,Tea,1996,138.6,South America
+Peru,"Cocoa, beans",1997,840.8,South America
+Peru,"Coffee, green",1997,2428.5,South America
+Peru,Tea,1997,198.9,South America
+Peru,"Cocoa, beans",1998,1000.0,South America
+Peru,"Coffee, green",1998,1471.0,South America
+Peru,Tea,1998,211.6,South America
+Peru,"Cocoa, beans",1999,759.6,South America
+Peru,"Coffee, green",1999,1070.0,South America
+Peru,Tea,1999,227.6,South America
+Peru,"Cocoa, beans",2000,573.1,South America
+Peru,"Coffee, green",2000,991.4,South America
+Peru,Tea,2000,243.6,South America
+Peru,"Cocoa, beans",2001,570.3,South America
+Peru,"Coffee, green",2001,670.1,South America
+Peru,Tea,2001,176.8,South America
+Peru,"Cocoa, beans",2002,944.1,South America
+Peru,"Coffee, green",2002,534.6,South America
+Peru,Tea,2002,128.0,South America
+Peru,"Cocoa, beans",2003,1170.0,South America
+Peru,"Coffee, green",2003,678.5,South America
+Peru,Tea,2003,112.1,South America
+Peru,"Cocoa, beans",2004,1007.9,South America
+Peru,"Coffee, green",2004,802.8,South America
+Peru,Tea,2004,120.1,South America
+Peru,"Cocoa, beans",2005,1137.8,South America
+Peru,"Coffee, green",2005,1407.9,South America
+Peru,Tea,2005,130.5,South America
+Peru,"Cocoa, beans",2006,1114.8,South America
+Peru,"Coffee, green",2006,1261.5,South America
+Peru,Tea,2006,146.6,South America
+Peru,"Cocoa, beans",2007,1611.3,South America
+Peru,"Coffee, green",2007,1531.3,South America
+Peru,Tea,2007,147.1,South America
+Peru,"Cocoa, beans",2008,1973.1,South America
+Peru,"Coffee, green",2008,1726.8,South America
+Peru,Tea,2008,167.6,South America
+Peru,"Cocoa, beans",2009,1504.2,South America
+Peru,"Coffee, green",2009,1793.1,South America
+Peru,Tea,2009,186.0,South America
+Peru,"Cocoa, beans",2010,2208.8,South America
+Peru,"Coffee, green",2010,2187.5,South America
+Peru,Tea,2010,184.1,South America
+Peru,"Cocoa, beans",2011,2207.6,South America
+Peru,"Coffee, green",2011,3340.5,South America
+Peru,Tea,2011,239.6,South America
+Peru,"Cocoa, beans",2012,1819.8,South America
+Peru,"Coffee, green",2012,2399.9,South America
+Peru,Tea,2012,265.4,South America
+Peru,"Cocoa, beans",2013,1850.5,South America
+Peru,"Coffee, green",2013,1809.8,South America
+Peru,Tea,2013,285.0,South America
+Peru,"Cocoa, beans",2014,2264.5,South America
+Peru,"Coffee, green",2014,2541.0,South America
+Peru,Tea,2014,302.9,South America
+Peru,"Cocoa, beans",2015,2308.1,South America
+Peru,"Coffee, green",2015,2007.3,South America
+Peru,Tea,2015,234.6,South America
+Peru,"Cocoa, beans",2016,2352.5,South America
+Peru,"Coffee, green",2016,1662.2,South America
+Peru,Tea,2016,200.6,South America
+Peru,"Cocoa, beans",2017,1680.7,South America
+Peru,"Coffee, green",2017,1812.6,South America
+Peru,Tea,2017,205.5,South America
+Peru,"Cocoa, beans",2018,1842.9,South America
+Peru,"Coffee, green",2018,1678.8,South America
+Peru,Tea,2018,195.6,South America
+Peru,"Cocoa, beans",2019,1873.8,South America
+Peru,"Coffee, green",2019,1553.5,South America
+Peru,Tea,2019,195.4,South America
+Philippines,"Cocoa, beans",1991,940.7,Asia
+Philippines,"Coffee, green",1991,758.0,Asia
+Philippines,"Cocoa, beans",1992,929.7,Asia
+Philippines,"Coffee, green",1992,817.2,Asia
+Philippines,"Cocoa, beans",1993,839.2,Asia
+Philippines,"Coffee, green",1993,788.1,Asia
+Philippines,"Cocoa, beans",1994,1005.4,Asia
+Philippines,"Coffee, green",1994,1549.5,Asia
+Philippines,"Cocoa, beans",1995,1141.8,Asia
+Philippines,"Coffee, green",1995,2151.1,Asia
+Philippines,"Cocoa, beans",1996,1042.5,Asia
+Philippines,"Coffee, green",1996,1754.5,Asia
+Philippines,"Cocoa, beans",1997,892.4,Asia
+Philippines,"Coffee, green",1997,1450.5,Asia
+Philippines,"Cocoa, beans",1998,827.3,Asia
+Philippines,"Coffee, green",1998,1320.8,Asia
+Philippines,"Cocoa, beans",1999,834.8,Asia
+Philippines,"Coffee, green",1999,1422.1,Asia
+Philippines,"Cocoa, beans",2000,619.1,Asia
+Philippines,"Coffee, green",2000,802.6,Asia
+Philippines,"Cocoa, beans",2001,512.8,Asia
+Philippines,"Coffee, green",2001,604.5,Asia
+Philippines,"Cocoa, beans",2002,828.0,Asia
+Philippines,"Coffee, green",2002,659.9,Asia
+Philippines,"Cocoa, beans",2003,1133.5,Asia
+Philippines,"Coffee, green",2003,756.8,Asia
+Philippines,"Cocoa, beans",2004,989.5,Asia
+Philippines,"Coffee, green",2004,739.5,Asia
+Philippines,"Cocoa, beans",2005,1036.9,Asia
+Philippines,"Coffee, green",2005,823.3,Asia
+Philippines,"Cocoa, beans",2006,1148.6,Asia
+Philippines,"Coffee, green",2006,894.0,Asia
+Philippines,"Cocoa, beans",2007,1236.2,Asia
+Philippines,"Coffee, green",2007,1183.5,Asia
+Philippines,"Cocoa, beans",2008,1347.6,Asia
+Philippines,"Coffee, green",2008,1308.6,Asia
+Philippines,"Cocoa, beans",2009,1137.2,Asia
+Philippines,"Coffee, green",2009,1168.2,Asia
+Philippines,"Cocoa, beans",2010,1554.0,Asia
+Philippines,"Coffee, green",2010,1276.2,Asia
+Philippines,"Cocoa, beans",2011,2050.2,Asia
+Philippines,"Coffee, green",2011,1516.9,Asia
+Philippines,"Cocoa, beans",2012,1740.5,Asia
+Philippines,"Coffee, green",2012,1587.5,Asia
+Philippines,"Cocoa, beans",2013,1492.7,Asia
+Philippines,"Coffee, green",2013,1707.4,Asia
+Philippines,"Cocoa, beans",2014,1931.8,Asia
+Philippines,"Coffee, green",2014,1700.9,Asia
+Philippines,"Cocoa, beans",2015,2017.5,Asia
+Philippines,"Coffee, green",2015,1796.0,Asia
+Philippines,"Cocoa, beans",2016,2169.0,Asia
+Philippines,"Coffee, green",2016,1732.3,Asia
+Philippines,"Cocoa, beans",2017,1658.0,Asia
+Philippines,"Coffee, green",2017,1910.4,Asia
+Philippines,"Cocoa, beans",2018,1553.5,Asia
+Philippines,"Coffee, green",2018,1825.6,Asia
+Philippines,"Cocoa, beans",2019,1793.6,Asia
+Philippines,"Coffee, green",2019,1792.4,Asia
+Puerto Rico,"Coffee, green",1991,3978.0,North America
+Puerto Rico,"Coffee, green",1992,4968.0,North America
+Puerto Rico,"Coffee, green",1997,4916.0,North America
+Puerto Rico,"Coffee, green",1998,5114.0,North America
+Puerto Rico,"Coffee, green",1999,4806.0,North America
+Puerto Rico,"Coffee, green",2000,4563.0,North America
+Puerto Rico,"Coffee, green",2001,4455.0,North America
+Puerto Rico,"Coffee, green",2002,5218.0,North America
+Puerto Rico,"Coffee, green",2003,4250.0,North America
+Puerto Rico,"Coffee, green",2004,4386.0,North America
+Puerto Rico,"Coffee, green",2005,4268.0,North America
+Puerto Rico,"Coffee, green",2006,6311.0,North America
+Puerto Rico,"Coffee, green",2007,6107.0,North America
+Puerto Rico,"Coffee, green",2009,5345.5,North America
+Puerto Rico,"Coffee, green",2010,5728.3,North America
+Puerto Rico,"Coffee, green",2011,5110.1,North America
+Puerto Rico,"Coffee, green",2012,5110.1,North America
+Puerto Rico,"Coffee, green",2013,5081.8,North America
+Puerto Rico,"Coffee, green",2014,5551.1,North America
+Puerto Rico,"Coffee, green",2015,5522.6,North America
+Russian Federation,Tea,2017,72627.4,Europe
+Russian Federation,Tea,2018,67614.8,Europe
+Russian Federation,Tea,2019,64362.3,Europe
+Rwanda,"Coffee, green",1991,858.1,Africa
+Rwanda,"Coffee, green",1992,858.6,Africa
+Rwanda,"Coffee, green",1995,1628.6,Africa
+Rwanda,"Coffee, green",1997,1273.5,Africa
+Rwanda,Tea,1999,110.8,Africa
+Rwanda,"Coffee, green",2000,592.8,Africa
+Rwanda,Tea,2000,94.9,Africa
+Rwanda,"Coffee, green",2001,465.0,Africa
+Rwanda,Tea,2001,83.5,Africa
+Rwanda,"Coffee, green",2002,277.7,Africa
+Rwanda,Tea,2002,94.7,Africa
+Rwanda,"Coffee, green",2003,465.0,Africa
+Rwanda,Tea,2003,83.7,Africa
+Rwanda,"Coffee, green",2004,649.4,Africa
+Rwanda,Tea,2004,97.0,Africa
+Rwanda,"Coffee, green",2005,896.3,Africa
+Rwanda,Tea,2005,100.4,Africa
+Rwanda,"Coffee, green",2006,1087.5,Africa
+Rwanda,Tea,2006,122.3,Africa
+Rwanda,"Coffee, green",2007,1097.0,Africa
+Rwanda,Tea,2007,123.4,Africa
+Rwanda,"Coffee, green",2008,1188.6,Africa
+Rwanda,Tea,2008,123.4,Africa
+Rwanda,"Coffee, green",2009,1407.8,Africa
+Rwanda,Tea,2009,151.3,Africa
+Rwanda,"Coffee, green",2010,1371.9,Africa
+Rwanda,Tea,2010,154.3,Africa
+Rwanda,"Coffee, green",2015,277.4,Africa
+Rwanda,Tea,2015,179.4,Africa
+Saint Lucia,"Cocoa, beans",1993,2444.4,North America
+Saint Lucia,"Cocoa, beans",1994,2444.4,North America
+Saint Lucia,"Cocoa, beans",1995,2444.4,North America
+Saint Lucia,"Cocoa, beans",1996,2444.4,North America
+Saint Lucia,"Cocoa, beans",1997,2444.4,North America
+Saint Lucia,"Cocoa, beans",1998,2444.4,North America
+Saint Lucia,"Cocoa, beans",1999,2444.4,North America
+Saint Lucia,"Cocoa, beans",2000,2444.4,North America
+Saint Lucia,"Cocoa, beans",2001,2444.4,North America
+Saint Lucia,"Cocoa, beans",2002,2444.4,North America
+Saint Lucia,"Cocoa, beans",2003,2444.4,North America
+Saint Lucia,"Cocoa, beans",2004,2444.4,North America
+Saint Lucia,"Cocoa, beans",2005,2444.4,North America
+Saint Lucia,"Cocoa, beans",2006,2444.4,North America
+Saint Lucia,"Cocoa, beans",2007,2444.4,North America
+Saint Lucia,"Cocoa, beans",2008,2444.4,North America
+Saint Lucia,"Cocoa, beans",2017,8148.1,North America
+Saint Lucia,"Coffee, green",2017,6340.7,North America
+Saint Lucia,"Cocoa, beans",2018,8148.1,North America
+Saint Lucia,"Coffee, green",2018,6340.7,North America
+Saint Lucia,"Cocoa, beans",2019,8148.1,North America
+Saint Lucia,"Coffee, green",2019,4887.0,North America
+Saint Vincent and the Grenadines,"Cocoa, beans",2012,865.5,North America
+Saint Vincent and the Grenadines,"Cocoa, beans",2013,2449.6,North America
+Saint Vincent and the Grenadines,"Cocoa, beans",2014,1833.3,North America
+Saint Vincent and the Grenadines,"Cocoa, beans",2015,1629.6,North America
+Saint Vincent and the Grenadines,"Cocoa, beans",2016,1629.6,North America
+Saint Vincent and the Grenadines,"Cocoa, beans",2017,1629.6,North America
+Saint Vincent and the Grenadines,"Cocoa, beans",2018,1629.6,North America
+Saudi Arabia,"Coffee, green",2009,6453.3,Asia
+Saudi Arabia,"Coffee, green",2010,6757.3,Asia
+Saudi Arabia,"Coffee, green",2011,7613.3,Asia
+Saudi Arabia,"Coffee, green",2012,9157.3,Asia
+Saudi Arabia,"Coffee, green",2013,9920.0,Asia
+Saudi Arabia,"Coffee, green",2014,9941.3,Asia
+Saudi Arabia,"Coffee, green",2015,9545.8,Asia
+Seychelles,Tea,2014,12900.3,Africa
+South Africa,Tea,1993,3868.2,Africa
+South Africa,Tea,1994,3610.5,Africa
+South Africa,Tea,1995,3801.9,Africa
+South Africa,Tea,1996,3412.2,Africa
+South Africa,Tea,1997,3183.6,Africa
+South Africa,Tea,1998,2707.9,Africa
+South Africa,Tea,1999,2073.8,Africa
+South Africa,Tea,2000,1788.2,Africa
+South Africa,Tea,2001,1702.8,Africa
+South Africa,Tea,2002,1406.0,Africa
+South Africa,Tea,2003,1599.5,Africa
+South Africa,Tea,2004,1972.1,Africa
+South Africa,Tea,2005,1976.9,Africa
+South Africa,Tea,2006,1822.0,Africa
+South Africa,Tea,2007,1777.9,Africa
+South Africa,Tea,2008,1769.2,Africa
+South Africa,Tea,2009,2259.9,Africa
+South Africa,Tea,2010,2499.6,Africa
+South Africa,Tea,2011,2658.0,Africa
+South Africa,Tea,2012,2435.1,Africa
+South Africa,Tea,2013,2014.1,Africa
+South Africa,Tea,2014,1748.7,Africa
+South Africa,Tea,2015,149.6,Africa
+South Africa,Tea,2016,130.1,Africa
+South Africa,Tea,2017,152.8,Africa
+South Africa,Tea,2018,195.6,Africa
+Spain,"Coffee, green",2018,4723.7,Europe
+Sri Lanka,"Coffee, green",1991,783.9,Asia
+Sri Lanka,Tea,1991,1128.3,Asia
+Sri Lanka,"Coffee, green",1992,743.3,Asia
+Sri Lanka,Tea,1992,1133.0,Asia
+Sri Lanka,"Coffee, green",1993,615.9,Asia
+Sri Lanka,Tea,1993,1043.2,Asia
+Sri Lanka,"Coffee, green",1994,982.3,Asia
+Sri Lanka,Tea,1994,1051.2,Asia
+Sri Lanka,"Coffee, green",1995,1805.6,Asia
+Sri Lanka,Tea,1995,1074.5,Asia
+Sri Lanka,"Coffee, green",1996,1501.0,Asia
+Sri Lanka,Tea,1996,1137.4,Asia
+Sri Lanka,"Coffee, green",1997,990.9,Asia
+Sri Lanka,Tea,1997,1254.2,Asia
+Sri Lanka,"Coffee, green",1998,1041.0,Asia
+Sri Lanka,Tea,1998,1492.2,Asia
+Sri Lanka,"Coffee, green",1999,1044.9,Asia
+Sri Lanka,Tea,1999,254.0,Asia
+Sri Lanka,"Coffee, green",2000,965.5,Asia
+Sri Lanka,Tea,2000,273.9,Asia
+Sri Lanka,"Coffee, green",2001,648.8,Asia
+Sri Lanka,Tea,2001,235.5,Asia
+Sri Lanka,"Coffee, green",2002,572.6,Asia
+Sri Lanka,Tea,2002,228.2,Asia
+Sri Lanka,"Coffee, green",2003,503.6,Asia
+Sri Lanka,Tea,2003,218.4,Asia
+Sri Lanka,"Coffee, green",2004,544.4,Asia
+Sri Lanka,Tea,2004,261.2,Asia
+Sri Lanka,"Coffee, green",2005,633.7,Asia
+Sri Lanka,Tea,2005,270.5,Asia
+Sri Lanka,"Coffee, green",2006,879.4,Asia
+Sri Lanka,Tea,2006,280.9,Asia
+Sri Lanka,"Coffee, green",2007,2097.8,Asia
+Sri Lanka,Tea,2007,369.4,Asia
+Sri Lanka,"Coffee, green",2008,2291.9,Asia
+Sri Lanka,Tea,2008,419.5,Asia
+Sri Lanka,"Coffee, green",2009,1932.6,Asia
+Sri Lanka,Tea,2009,458.6,Asia
+Sri Lanka,"Coffee, green",2010,1934.1,Asia
+Sri Lanka,"Coffee, green",2011,2187.9,Asia
+Sri Lanka,"Coffee, green",2012,2066.9,Asia
+Sri Lanka,"Coffee, green",2013,1797.5,Asia
+Sri Lanka,"Coffee, green",2014,1805.3,Asia
+Sri Lanka,"Cocoa, beans",2015,1879.4,Asia
+Sri Lanka,"Coffee, green",2015,1815.1,Asia
+Sri Lanka,"Cocoa, beans",2016,2041.0,Asia
+Sri Lanka,"Coffee, green",2016,2437.9,Asia
+Sri Lanka,Tea,2016,441.2,Asia
+Sri Lanka,"Cocoa, beans",2017,2220.5,Asia
+Sri Lanka,"Coffee, green",2017,3000.3,Asia
+Sri Lanka,Tea,2017,598.4,Asia
+Sri Lanka,"Cocoa, beans",2018,2169.8,Asia
+Sri Lanka,"Coffee, green",2018,3154.2,Asia
+Sri Lanka,Tea,2018,554.0,Asia
+Sri Lanka,"Cocoa, beans",2019,2010.8,Asia
+Sri Lanka,"Coffee, green",2019,2547.4,Asia
+Sri Lanka,Tea,2019,468.0,Asia
+Suriname,"Cocoa, beans",1991,1918.8,South America
+Suriname,"Coffee, green",1991,2173.9,South America
+Suriname,"Cocoa, beans",1992,1923.1,South America
+Suriname,"Coffee, green",1992,2307.7,South America
+Suriname,"Cocoa, beans",1993,1096.5,South America
+Suriname,"Coffee, green",1993,1535.1,South America
+Suriname,"Cocoa, beans",1994,2000.0,South America
+Suriname,"Coffee, green",1994,2083.3,South America
+Suriname,"Cocoa, beans",1995,1355.0,South America
+Suriname,"Coffee, green",1995,1580.8,South America
+Suriname,"Cocoa, beans",1996,1995.0,South America
+Suriname,"Coffee, green",1996,1995.0,South America
+Suriname,"Cocoa, beans",1997,3984.1,South America
+Suriname,"Coffee, green",1997,3984.1,South America
+Suriname,"Cocoa, beans",1998,4233.1,South America
+Suriname,"Coffee, green",1998,4233.1,South America
+Suriname,"Cocoa, beans",1999,3596.7,South America
+Suriname,"Coffee, green",1999,3596.7,South America
+Thailand,"Coffee, green",1991,965.6,Asia
+Thailand,"Coffee, green",1992,743.7,Asia
+Thailand,"Coffee, green",1993,966.8,Asia
+Thailand,"Coffee, green",1994,1021.5,Asia
+Thailand,"Coffee, green",1995,2273.3,Asia
+Thailand,"Coffee, green",1996,1586.7,Asia
+Thailand,"Coffee, green",1997,989.3,Asia
+Thailand,"Coffee, green",1998,1537.0,Asia
+Thailand,"Coffee, green",1999,1281.5,Asia
+Thailand,"Coffee, green",2000,602.8,Asia
+Thailand,"Coffee, green",2001,703.1,Asia
+Thailand,"Coffee, green",2002,634.3,Asia
+Thailand,"Coffee, green",2003,767.0,Asia
+Thailand,"Coffee, green",2004,687.2,Asia
+Thailand,"Coffee, green",2005,714.8,Asia
+Thailand,"Coffee, green",2006,963.3,Asia
+Thailand,"Coffee, green",2007,1320.2,Asia
+Thailand,"Coffee, green",2008,1795.4,Asia
+Thailand,"Coffee, green",2009,1993.5,Asia
+Thailand,"Coffee, green",2010,1814.7,Asia
+Thailand,"Coffee, green",2011,2326.5,Asia
+Thailand,"Coffee, green",2012,2222.8,Asia
+Thailand,"Coffee, green",2013,2316.0,Asia
+Thailand,"Coffee, green",2014,1999.4,Asia
+Thailand,"Coffee, green",2015,1994.3,Asia
+Thailand,"Coffee, green",2016,1767.3,Asia
+Thailand,"Coffee, green",2017,2430.8,Asia
+Thailand,"Coffee, green",2018,2158.5,Asia
+Thailand,"Coffee, green",2019,2173.1,Asia
+Timor-Leste,"Coffee, green",2008,1250.0,N/A
+Timor-Leste,"Coffee, green",2009,1500.0,N/A
+Togo,"Cocoa, beans",1991,886.2,Africa
+Togo,"Coffee, green",1991,620.3,Africa
+Togo,"Cocoa, beans",1992,944.5,Africa
+Togo,"Coffee, green",1992,698.9,Africa
+Togo,"Cocoa, beans",1993,794.6,Africa
+Togo,"Coffee, green",1993,494.4,Africa
+Togo,"Cocoa, beans",1994,540.3,Africa
+Togo,"Coffee, green",1994,630.4,Africa
+Togo,"Cocoa, beans",1995,1101.9,Africa
+Togo,"Coffee, green",1995,1302.2,Africa
+Togo,"Cocoa, beans",1996,879.7,Africa
+Togo,"Coffee, green",1996,1466.1,Africa
+Togo,"Cocoa, beans",1999,930.6,Africa
+Togo,"Coffee, green",1999,1167.8,Africa
+Togo,"Cocoa, beans",2000,540.7,Africa
+Togo,"Coffee, green",2000,491.6,Africa
+Togo,"Cocoa, beans",2001,1110.4,Africa
+Togo,"Coffee, green",2001,350.6,Africa
+Togo,"Cocoa, beans",2002,1226.7,Africa
+Togo,"Coffee, green",2002,441.9,Africa
+Togo,"Cocoa, beans",2003,1042.7,Africa
+Togo,"Coffee, green",2003,443.9,Africa
+Togo,"Cocoa, beans",2004,1126.3,Africa
+Togo,"Coffee, green",2004,533.8,Africa
+Togo,"Cocoa, beans",2005,1211.4,Africa
+Togo,"Coffee, green",2005,946.0,Africa
+Togo,"Cocoa, beans",2006,1212.5,Africa
+Togo,"Coffee, green",2006,946.7,Africa
+Togo,"Cocoa, beans",2007,1571.1,Africa
+Togo,"Coffee, green",2007,1506.5,Africa
+Togo,"Cocoa, beans",2008,2101.4,Africa
+Togo,"Coffee, green",2008,1248.3,Africa
+Togo,"Cocoa, beans",2009,2763.7,Africa
+Togo,"Coffee, green",2009,887.4,Africa
+Togo,"Cocoa, beans",2010,2634.9,Africa
+Togo,"Coffee, green",2010,846.0,Africa
+Togo,"Cocoa, beans",2011,2765.6,Africa
+Togo,"Coffee, green",2011,888.0,Africa
+Togo,"Cocoa, beans",2012,2556.2,Africa
+Togo,"Coffee, green",2012,820.7,Africa
+Togo,"Cocoa, beans",2013,2641.5,Africa
+Togo,"Coffee, green",2013,848.1,Africa
+Togo,"Cocoa, beans",2017,1679.1,Africa
+Togo,"Coffee, green",2017,1395.0,Africa
+Togo,"Cocoa, beans",2018,1980.4,Africa
+Togo,"Coffee, green",2018,1170.2,Africa
+Togo,"Cocoa, beans",2019,2048.1,Africa
+Togo,"Coffee, green",2019,836.3,Africa
+Trinidad and Tobago,"Coffee, green",1991,1393.6,North America
+Trinidad and Tobago,"Coffee, green",1992,1543.1,North America
+Trinidad and Tobago,"Coffee, green",1993,1651.1,North America
+Trinidad and Tobago,"Coffee, green",1994,1435.1,North America
+Trinidad and Tobago,"Coffee, green",1995,1472.3,North America
+Trinidad and Tobago,"Coffee, green",1996,1432.3,North America
+Trinidad and Tobago,"Coffee, green",1997,1362.7,North America
+Trinidad and Tobago,"Coffee, green",1998,1334.8,North America
+Trinidad and Tobago,"Coffee, green",1999,1750.0,North America
+Turkey,Tea,1991,257.9,Asia
+Turkey,Tea,1992,295.9,Asia
+Turkey,Tea,1993,295.5,Asia
+Turkey,Tea,1994,181.3,Asia
+Turkey,Tea,1995,225.1,Asia
+Turkey,Tea,1996,255.9,Asia
+Turkey,Tea,1997,288.0,Asia
+Turkey,Tea,1998,345.2,Asia
+Turkey,Tea,1999,310.4,Asia
+Turkey,Tea,2000,259.9,Asia
+Turkey,Tea,2001,204.0,Asia
+Turkey,Tea,2002,212.3,Asia
+Turkey,Tea,2003,266.5,Asia
+Turkey,Tea,2004,368.3,Asia
+Turkey,Tea,2005,387.0,Asia
+Turkey,Tea,2006,399.0,Asia
+Turkey,Tea,2007,491.2,Asia
+Turkey,Tea,2008,566.3,Asia
+Turkey,Tea,2009,509.7,Asia
+Turkey,Tea,2010,588.9,Asia
+Turkey,Tea,2011,585.1,Asia
+Turkey,Tea,2012,612.5,Asia
+Turkey,Tea,2013,646.1,Asia
+Turkey,Tea,2014,602.0,Asia
+Turkey,Tea,2015,580.9,Asia
+Turkey,Tea,2016,586.1,Asia
+Turkey,Tea,2017,548.2,Asia
+Turkey,Tea,2018,480.5,Asia
+Turkey,Tea,2019,511.1,Asia
+United States of America,"Coffee, green",1991,3858.0,North America
+United States of America,"Coffee, green",1992,3748.0,North America
+United States of America,"Coffee, green",1993,4960.0,North America
+United States of America,"Coffee, green",1994,6173.0,North America
+United States of America,"Coffee, green",1995,6614.0,North America
+United States of America,"Coffee, green",1996,7165.0,North America
+United States of America,"Coffee, green",1997,6614.0,North America
+United States of America,"Coffee, green",1998,5732.0,North America
+United States of America,"Coffee, green",1999,4630.0,North America
+United States of America,"Coffee, green",2000,5842.0,North America
+United States of America,"Coffee, green",2001,5401.0,North America
+United States of America,"Coffee, green",2002,6834.0,North America
+United States of America,"Coffee, green",2003,6393.0,North America
+United States of America,"Coffee, green",2004,7826.0,North America
+United States of America,"Coffee, green",2005,10031.0,North America
+United States of America,"Coffee, green",2006,9480.0,North America
+United States of America,"Coffee, green",2007,11023.0,North America
+United States of America,"Coffee, green",2008,7496.0,North America
+United States of America,"Coffee, green",2009,7937.0,North America
+United States of America,"Coffee, green",2010,7165.0,North America
+United States of America,"Coffee, green",2011,9149.0,North America
+United States of America,"Coffee, green",2012,13007.0,North America
+United States of America,"Coffee, green",2013,13669.0,North America
+United States of America,"Coffee, green",2014,27668.0,North America
+United States of America,"Coffee, green",2015,33599.0,North America
+United States of America,"Coffee, green",2016,36376.0,North America
+United States of America,"Coffee, green",2017,37919.0,North America
+United States of America,"Coffee, green",2018,42770.0,North America
+United States of America,"Coffee, green",2019,44313.0,North America
+Vanuatu,"Cocoa, beans",1999,743.8,Oceania
+Vanuatu,"Coffee, green",1999,774.7,Oceania
+Vanuatu,"Cocoa, beans",2000,726.5,Oceania
+Vanuatu,"Coffee, green",2000,1453.0,Oceania
+Vanuatu,"Cocoa, beans",2001,825.8,Oceania
+Vanuatu,"Coffee, green",2001,1376.3,Oceania
+Vanuatu,"Cocoa, beans",2002,1357.8,Oceania
+Vanuatu,"Coffee, green",2002,1436.8,Oceania
+Vanuatu,"Cocoa, beans",2003,1595.9,Oceania
+Vanuatu,"Coffee, green",2003,1636.8,Oceania
+Vanuatu,"Cocoa, beans",2004,1413.4,Oceania
+Vanuatu,"Coffee, green",2004,1789.1,Oceania
+Vanuatu,"Cocoa, beans",2005,1327.3,Oceania
+Vanuatu,"Coffee, green",2005,2013.8,Oceania
+Vanuatu,"Cocoa, beans",2006,1373.8,Oceania
+Vanuatu,"Coffee, green",2006,1988.4,Oceania
+Vanuatu,"Cocoa, beans",2007,1757.2,Oceania
+Vanuatu,"Coffee, green",2007,2147.7,Oceania
+Vanuatu,"Cocoa, beans",2008,2190.8,Oceania
+Vanuatu,"Coffee, green",2008,2171.0,Oceania
+Vanuatu,"Cocoa, beans",2009,2173.5,Oceania
+Vanuatu,"Coffee, green",2009,2061.1,Oceania
+Venezuela (Bolivarian Republic of),"Cocoa, beans",1991,917.2,N/A
+Venezuela (Bolivarian Republic of),"Coffee, green",1991,1275.7,N/A
+Venezuela (Bolivarian Republic of),"Cocoa, beans",1992,906.8,N/A
+Venezuela (Bolivarian Republic of),"Coffee, green",1992,1178.3,N/A
+Venezuela (Bolivarian Republic of),"Cocoa, beans",1993,813.4,N/A
+Venezuela (Bolivarian Republic of),"Coffee, green",1993,912.8,N/A
+Venezuela (Bolivarian Republic of),"Cocoa, beans",1994,1048.5,N/A
+Venezuela (Bolivarian Republic of),"Coffee, green",1994,757.6,N/A
+Venezuela (Bolivarian Republic of),"Cocoa, beans",1995,1805.1,N/A
+Venezuela (Bolivarian Republic of),"Coffee, green",1995,3092.9,N/A
+Venezuela (Bolivarian Republic of),"Cocoa, beans",1996,1036.8,N/A
+Venezuela (Bolivarian Republic of),"Coffee, green",1996,1663.3,N/A
+Venezuela (Bolivarian Republic of),"Cocoa, beans",1997,1051.8,N/A
+Venezuela (Bolivarian Republic of),"Coffee, green",1997,2859.3,N/A
+Venezuela (Bolivarian Republic of),"Cocoa, beans",1998,1192.2,N/A
+Venezuela (Bolivarian Republic of),"Coffee, green",1998,1967.6,N/A
+Venezuela (Bolivarian Republic of),"Cocoa, beans",1999,936.9,N/A
+Venezuela (Bolivarian Republic of),"Coffee, green",1999,1975.2,N/A
+Venezuela (Bolivarian Republic of),"Cocoa, beans",2000,780.5,N/A
+Venezuela (Bolivarian Republic of),"Coffee, green",2000,1860.8,N/A
+Venezuela (Bolivarian Republic of),"Cocoa, beans",2001,929.4,N/A
+Venezuela (Bolivarian Republic of),"Coffee, green",2001,1227.6,N/A
+Venezuela (Bolivarian Republic of),"Cocoa, beans",2002,751.4,N/A
+Venezuela (Bolivarian Republic of),"Coffee, green",2002,719.5,N/A
+Venezuela (Bolivarian Republic of),"Cocoa, beans",2003,1489.8,N/A
+Venezuela (Bolivarian Republic of),"Coffee, green",2003,695.5,N/A
+Venezuela (Bolivarian Republic of),"Cocoa, beans",2004,2016.9,N/A
+Venezuela (Bolivarian Republic of),"Coffee, green",2004,1361.0,N/A
+Venezuela (Bolivarian Republic of),"Cocoa, beans",2005,1467.2,N/A
+Venezuela (Bolivarian Republic of),"Coffee, green",2005,1583.7,N/A
+Venezuela (Bolivarian Republic of),"Cocoa, beans",2006,1815.7,N/A
+Venezuela (Bolivarian Republic of),"Coffee, green",2006,2313.0,N/A
+Venezuela (Bolivarian Republic of),"Cocoa, beans",2007,3682.8,N/A
+Venezuela (Bolivarian Republic of),"Coffee, green",2007,2646.9,N/A
+Venezuela (Bolivarian Republic of),"Cocoa, beans",2008,3311.2,N/A
+Venezuela (Bolivarian Republic of),"Coffee, green",2008,2957.7,N/A
+Venezuela (Bolivarian Republic of),"Cocoa, beans",2009,4187.2,N/A
+Venezuela (Bolivarian Republic of),"Coffee, green",2009,4219.8,N/A
+Venezuela (Bolivarian Republic of),"Cocoa, beans",2010,4372.4,N/A
+Venezuela (Bolivarian Republic of),"Coffee, green",2010,4418.9,N/A
+Venezuela (Bolivarian Republic of),"Cocoa, beans",2011,4548.5,N/A
+Venezuela (Bolivarian Republic of),"Coffee, green",2011,3464.4,N/A
+Venezuela (Bolivarian Republic of),"Cocoa, beans",2012,4853.9,N/A
+Venezuela (Bolivarian Republic of),"Coffee, green",2012,5357.5,N/A
+Venezuela (Bolivarian Republic of),"Cocoa, beans",2013,4895.8,N/A
+Venezuela (Bolivarian Republic of),"Coffee, green",2013,5287.7,N/A
+Venezuela (Bolivarian Republic of),"Cocoa, beans",2014,12519.9,N/A
+Venezuela (Bolivarian Republic of),"Coffee, green",2014,5614.2,N/A
+Viet Nam,"Coffee, green",2000,495.8,Asia
+Viet Nam,Tea,2000,1790.9,Asia
+Viet Nam,"Coffee, green",2001,220.8,Asia
+Viet Nam,Tea,2001,1280.0,Asia
+Viet Nam,"Coffee, green",2002,171.0,Asia
+Viet Nam,Tea,2002,1210.8,Asia
+Viet Nam,"Coffee, green",2003,119.5,Asia
+Viet Nam,Tea,2003,1207.2,Asia
+Viet Nam,"Coffee, green",2004,104.0,Asia
+Viet Nam,Tea,2004,1844.4,Asia
+Viet Nam,"Coffee, green",2005,368.7,Asia
+Viet Nam,Tea,2005,2095.9,Asia
+Viet Nam,"Coffee, green",2006,397.2,Asia
+Viet Nam,Tea,2006,1914.9,Asia
+Viet Nam,"Coffee, green",2007,1166.4,Asia
+Viet Nam,Tea,2007,152.9,Asia
+Viet Nam,"Coffee, green",2008,1103.3,Asia
+Viet Nam,Tea,2008,218.9,Asia
+Viet Nam,"Coffee, green",2009,1153.9,Asia
+Viet Nam,Tea,2009,247.4,Asia
+Viet Nam,"Coffee, green",2010,1254.1,Asia
+Viet Nam,Tea,2010,248.5,Asia
+Viet Nam,"Coffee, green",2011,1695.0,Asia
+Viet Nam,Tea,2011,275.9,Asia
+Viet Nam,"Coffee, green",2012,1666.7,Asia
+Viet Nam,Tea,2012,310.7,Asia
+Viet Nam,"Coffee, green",2013,1595.6,Asia
+Viet Nam,Tea,2013,318.3,Asia
+Viet Nam,"Coffee, green",2014,1574.4,Asia
+Viet Nam,Tea,2014,334.7,Asia
+Viet Nam,"Coffee, green",2015,1498.5,Asia
+Viet Nam,Tea,2015,343.4,Asia
+Viet Nam,"Coffee, green",2016,1748.0,Asia
+Viet Nam,Tea,2016,354.6,Asia
+Viet Nam,"Coffee, green",2017,1934.6,Asia
+Viet Nam,Tea,2017,365.0,Asia
+Viet Nam,"Coffee, green",2018,1773.8,Asia
+Viet Nam,Tea,2018,377.2,Asia
+Viet Nam,"Coffee, green",2019,1510.2,Asia
+Viet Nam,Tea,2019,413.5,Asia
+Yemen,"Coffee, green",1991,1909.8,Asia
+Yemen,"Coffee, green",1992,1966.2,Asia
+Yemen,"Coffee, green",1993,1704.8,Asia
+Yemen,"Coffee, green",1994,1500.6,Asia
+Yemen,"Coffee, green",1995,1519.9,Asia
+Yemen,"Coffee, green",1999,1650.5,Asia
+Yemen,"Coffee, green",2000,1645.1,Asia
+Yemen,"Coffee, green",2001,1577.0,Asia
+Yemen,"Coffee, green",2002,1590.5,Asia
+Yemen,"Coffee, green",2003,2958.0,Asia
+Yemen,"Coffee, green",2004,3609.6,Asia
+Yemen,"Coffee, green",2005,3865.9,Asia
+Yemen,"Coffee, green",2006,3871.0,Asia
+Yemen,"Coffee, green",2007,4065.7,Asia
+Yemen,"Coffee, green",2008,4062.4,Asia
+Yemen,"Coffee, green",2009,6068.8,Asia
+Yemen,"Coffee, green",2010,6744.4,Asia
+Yemen,"Coffee, green",2011,8107.5,Asia
+Yemen,"Coffee, green",2012,7184.1,Asia
+Yemen,"Coffee, green",2013,7957.9,Asia
+Yemen,"Coffee, green",2015,8520.5,Asia
+Yemen,"Coffee, green",2016,9116.2,Asia
+Yemen,"Coffee, green",2017,9571.9,Asia
+Yemen,"Coffee, green",2018,10050.5,Asia
